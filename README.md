@@ -2,6 +2,10 @@
 
 基于"系统调用学习法"的英语语法学习项目，使用 DeepSeek AI 自动生成结构化内容，构建为静态网站。
 
+🌐 **在线访问**: https://ciceroxiao.github.io/english-grammar-notes/
+
+---
+
 ## 学习理念
 
 采用三步学习法：
@@ -9,37 +13,48 @@
 2. **它是如何实现的？** —— 掌握语法规则
 3. **能不能自己编写一个？** —— 通过练习巩固
 
+---
+
 ## 知识点列表（共24个）
 
 ### 简单句的成分（14个）
-1. 名词片语
-2. 代名词
-3. 形容词
-4. 副词
-5. 比较句法
-6. 介系词
-7. 分词
-8. 动词时态
-9. 语态
-10. 语气助动词
-11. 语气
-12. 动名词
-13. 不定词片语
-14. 对等连接词
+1. [名词片语](https://ciceroxiao.github.io/english-grammar-notes/01.html)
+2. [代名词](https://ciceroxiao.github.io/english-grammar-notes/02.html)
+3. [形容词](https://ciceroxiao.github.io/english-grammar-notes/03.html)
+4. [副词](https://ciceroxiao.github.io/english-grammar-notes/04.html)
+5. [比较句法](https://ciceroxiao.github.io/english-grammar-notes/05.html)
+6. [介系词](https://ciceroxiao.github.io/english-grammar-notes/06.html)
+7. [分词](https://ciceroxiao.github.io/english-grammar-notes/07.html)
+8. [动词时态](https://ciceroxiao.github.io/english-grammar-notes/08.html)
+9. [语态](https://ciceroxiao.github.io/english-grammar-notes/09.html)
+10. [语气助动词](https://ciceroxiao.github.io/english-grammar-notes/10.html)
+11. [语气](https://ciceroxiao.github.io/english-grammar-notes/11.html)
+12. [动名词](https://ciceroxiao.github.io/english-grammar-notes/12.html)
+13. [不定词片语](https://ciceroxiao.github.io/english-grammar-notes/13.html)
+14. [对等连接词](https://ciceroxiao.github.io/english-grammar-notes/14.html)
 
 ### 复合句的类型（5个）
-15. 对等子句
-16. 名词子句
-17. 副词子句
-18. 关系子句
-19. 主词动词一致性
+15. [对等子句](https://ciceroxiao.github.io/english-grammar-notes/15.html)
+16. [名词子句](https://ciceroxiao.github.io/english-grammar-notes/16.html)
+17. [副词子句](https://ciceroxiao.github.io/english-grammar-notes/17.html)
+18. [关系子句](https://ciceroxiao.github.io/english-grammar-notes/18.html)
+19. [主词动词一致性](https://ciceroxiao.github.io/english-grammar-notes/19.html)
 
 ### 简化句的类型（5个）
-20. 倒装句
-21. 简化子句
-22. 关系子句简化
-23. 名词子句简化
-24. 副词子句简化
+20. [倒装句](https://ciceroxiao.github.io/english-grammar-notes/20.html)
+21. [简化子句](https://ciceroxiao.github.io/english-grammar-notes/21.html)
+22. [关系子句简化](https://ciceroxiao.github.io/english-grammar-notes/22.html)
+23. [名词子句简化](https://ciceroxiao.github.io/english-grammar-notes/23.html)
+24. [副词子句简化](https://ciceroxiao.github.io/english-grammar-notes/24.html)
+
+---
+
+## 项目状态
+
+- ✅ 24 个提示词文件
+- ✅ 24 个 JSON 内容文件（DeepSeek AI 生成）
+- ✅ 24 个 HTML 页面
+- ✅ GitHub Pages 部署完成
 
 ---
 
@@ -149,7 +164,7 @@ make serve
 │   ├── generate_content.py      # 调用 DeepSeek API
 │   ├── build_html.py            # 构建单个 HTML
 │   └── build_all.py             # 批量构建
-├── docs/                        # 生成的静态网站
+├── docs/                        # 生成的静态网站 (GitHub Pages 源)
 │   ├── index.html
 │   ├── 01.html ~ 24.html
 │   └── assets/
@@ -183,19 +198,16 @@ uv run python scripts/build_all.py
 
 ---
 
-## 部署到 GitHub Pages
+## 部署
+
+网站已通过 GitHub Pages 部署：
 
 ```bash
-cd docs
-git init
+# 推送到 GitHub 自动部署
 git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/yourusername/english-grammar.git
-git push -u origin main
+git commit -m "Update content"
+git push origin master
 ```
-
-然后在 GitHub 仓库设置中启用 GitHub Pages。
 
 ---
 
@@ -204,6 +216,13 @@ git push -u origin main
 1. **API 费用**：调用 DeepSeek API 会产生费用，请确保账户有足够余额
 2. **生成时间**：生成 24 个知识点可能需要 10-30 分钟，建议分批生成
 3. **API 限制**：注意 API 的速率限制，程序已内置延迟
+
+---
+
+## 相关链接
+
+- 🌐 **在线网站**: https://ciceroxiao.github.io/english-grammar-notes/
+- 📁 **GitHub 仓库**: https://github.com/ciceroxiao/english-grammar-notes
 
 ## 贡献
 

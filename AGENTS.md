@@ -2,6 +2,11 @@
 
 This is an English grammar learning notes project with an automated workflow for generating learning materials using DeepSeek AI.
 
+🌐 **Live Site**: https://ciceroxiao.github.io/english-grammar-notes/  
+📁 **Repository**: https://github.com/ciceroxiao/english-grammar-notes
+
+---
+
 ## Workflow
 
 ```
@@ -14,7 +19,16 @@ This is an English grammar learning notes project with an automated workflow for
 1. **Generate Prompts**: 自动生成 24 个提示词文件
 2. **DeepSeek API**: 调用 API 自动生成结构化 JSON 内容
 3. **Build HTML**: 将 JSON 内容转换为静态 HTML 页面
-4. **Deploy**: 将生成的页面同步到 GitHub 仓库
+4. **Deploy**: 通过 GitHub Pages 部署网站
+
+---
+
+## Project Status
+
+- ✅ 24 Prompt files generated
+- ✅ 24 JSON content files (DeepSeek AI generated)
+- ✅ 24 HTML pages built
+- ✅ GitHub Pages deployed
 
 ---
 
@@ -22,22 +36,22 @@ This is an English grammar learning notes project with an automated workflow for
 
 ### Prerequisites
 
-- [uv](https://github.com/astral-sh/uv) - Python 包管理器
+- [uv](https://github.com/astral-sh/uv) - Python package manager
 - DeepSeek API Key
 
 ### Setup Steps
 
 ```bash
-# 1. 创建虚拟环境
+# 1. Create virtual environment
 uv venv
 
-# 2. 安装依赖
+# 2. Install dependencies
 uv pip install -r requirements.txt
 
-# 3. 设置 API Key
+# 3. Set API Key
 export DEEPSEEK_API_KEY="your-api-key-here"
 
-# 4. 验证设置
+# 4. Verify setup
 make status
 ```
 
@@ -62,7 +76,7 @@ make status
 │   ├── generate_content.py       # Call DeepSeek API
 │   ├── build_html.py             # Build single HTML
 │   └── build_all.py              # Batch build
-├── docs/                         # Generated static website
+├── docs/                         # Generated static website (GitHub Pages source)
 │   ├── index.html
 │   ├── 01.html ~ 24.html
 │   └── assets/
@@ -171,34 +185,40 @@ Each generated JSON file contains:
 ## 24 Grammar Points
 
 ### Simple Sentence Components (14)
-1. 名词片语 (Noun Phrases)
-2. 代名词 (Pronouns)
-3. 形容词 (Adjectives)
-4. 副词 (Adverbs)
-5. 比较句法 (Comparative Structures)
-6. 介系词 (Prepositions)
-7. 分词 (Participles)
-8. 动词时态 (Verb Tenses)
-9. 语态 (Voice)
-10. 语气助动词 (Modal Verbs)
-11. 语气 (Moods)
-12. 动名词 (Gerunds)
-13. 不定词片语 (Infinitive Phrases)
-14. 对等连接词 (Coordinating Conjunctions)
+| # | Name | Link |
+|---|------|------|
+| 1 | 名词片语 (Noun Phrases) | [01.html](https://ciceroxiao.github.io/english-grammar-notes/01.html) |
+| 2 | 代名词 (Pronouns) | [02.html](https://ciceroxiao.github.io/english-grammar-notes/02.html) |
+| 3 | 形容词 (Adjectives) | [03.html](https://ciceroxiao.github.io/english-grammar-notes/03.html) |
+| 4 | 副词 (Adverbs) | [04.html](https://ciceroxiao.github.io/english-grammar-notes/04.html) |
+| 5 | 比较句法 (Comparative Structures) | [05.html](https://ciceroxiao.github.io/english-grammar-notes/05.html) |
+| 6 | 介系词 (Prepositions) | [06.html](https://ciceroxiao.github.io/english-grammar-notes/06.html) |
+| 7 | 分词 (Participles) | [07.html](https://ciceroxiao.github.io/english-grammar-notes/07.html) |
+| 8 | 动词时态 (Verb Tenses) | [08.html](https://ciceroxiao.github.io/english-grammar-notes/08.html) |
+| 9 | 语态 (Voice) | [09.html](https://ciceroxiao.github.io/english-grammar-notes/09.html) |
+| 10 | 语气助动词 (Modal Verbs) | [10.html](https://ciceroxiao.github.io/english-grammar-notes/10.html) |
+| 11 | 语气 (Moods) | [11.html](https://ciceroxiao.github.io/english-grammar-notes/11.html) |
+| 12 | 动名词 (Gerunds) | [12.html](https://ciceroxiao.github.io/english-grammar-notes/12.html) |
+| 13 | 不定词片语 (Infinitive Phrases) | [13.html](https://ciceroxiao.github.io/english-grammar-notes/13.html) |
+| 14 | 对等连接词 (Coordinating Conjunctions) | [14.html](https://ciceroxiao.github.io/english-grammar-notes/14.html) |
 
 ### Complex Sentence Types (5)
-15. 对等子句 (Coordinate Clauses)
-16. 名词子句 (Noun Clauses)
-17. 副词子句 (Adverbial Clauses)
-18. 关系子句 (Relative Clauses)
-19. 主词动词一致性 (Subject-Verb Agreement)
+| # | Name | Link |
+|---|------|------|
+| 15 | 对等子句 (Coordinate Clauses) | [15.html](https://ciceroxiao.github.io/english-grammar-notes/15.html) |
+| 16 | 名词子句 (Noun Clauses) | [16.html](https://ciceroxiao.github.io/english-grammar-notes/16.html) |
+| 17 | 副词子句 (Adverbial Clauses) | [17.html](https://ciceroxiao.github.io/english-grammar-notes/17.html) |
+| 18 | 关系子句 (Relative Clauses) | [18.html](https://ciceroxiao.github.io/english-grammar-notes/18.html) |
+| 19 | 主词动词一致性 (Subject-Verb Agreement) | [19.html](https://ciceroxiao.github.io/english-grammar-notes/19.html) |
 
 ### Reduced Sentence Types (5)
-20. 倒装句 (Inversion)
-21. 简化子句 (Reduced Clauses)
-22. 关系子句简化 (Reduced Relative Clauses)
-23. 名词子句简化 (Reduced Noun Clauses)
-24. 副词子句简化 (Reduced Adverbial Clauses)
+| # | Name | Link |
+|---|------|------|
+| 20 | 倒装句 (Inversion) | [20.html](https://ciceroxiao.github.io/english-grammar-notes/20.html) |
+| 21 | 简化子句 (Reduced Clauses) | [21.html](https://ciceroxiao.github.io/english-grammar-notes/21.html) |
+| 22 | 关系子句简化 (Reduced Relative Clauses) | [22.html](https://ciceroxiao.github.io/english-grammar-notes/22.html) |
+| 23 | 名词子句简化 (Reduced Noun Clauses) | [23.html](https://ciceroxiao.github.io/english-grammar-notes/23.html) |
+| 24 | 副词子句简化 (Reduced Adverbial Clauses) | [24.html](https://ciceroxiao.github.io/english-grammar-notes/24.html) |
 
 ---
 
@@ -207,7 +227,7 @@ Each generated JSON file contains:
 - **Point IDs**: Use two digits (01-24)
 - **File Naming**: Lowercase with ID prefix (e.g., `01.json`, `01.html`)
 - **JSON Content**: Saved in `content/` directory
-- **HTML Output**: Saved in `docs/` directory
+- **HTML Output**: Saved in `docs/` directory (GitHub Pages source)
 - **API Rate Limiting**: Built-in delay between requests (1s)
 
 ---
@@ -219,6 +239,21 @@ Each generated JSON file contains:
 - **Content Format**: JSON
 - **Output**: Static HTML/CSS/JS
 - **Deployment**: GitHub Pages
+
+---
+
+## Deployment
+
+The site is deployed via GitHub Pages:
+
+```bash
+# Push to GitHub to deploy automatically
+git add .
+git commit -m "Update content"
+git push origin master
+```
+
+Site will be available at: https://ciceroxiao.github.io/english-grammar-notes/
 
 ---
 
