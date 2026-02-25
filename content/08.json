@@ -1,0 +1,118 @@
+{
+  "grammar_point": "动词时态",
+  "category": "简单句的成分",
+  "index": 8,
+  "content": {
+    "overview": {
+      "function": "动词时态通过动词形式的变化，来表明动作或状态发生的时间（过去、现在、将来）以及其进行的状态（一般、进行、完成、完成进行）。它是英语表达时间概念的核心语法手段。",
+      "usage_scenarios": [
+        "描述过去发生的事件",
+        "谈论现在的习惯或状态",
+        "表达将来的计划或预测"
+      ]
+    },
+    "rules": {
+      "description": "英语动词时态的核心在于时间（现在、过去、将来）与体貌（一般、进行、完成、完成进行）的组合。",
+      "key_points": [
+        {
+          "point": "时间与体貌的结合",
+          "explanation": "时态是“时间”和“体貌”的结合。时间分现在、过去、将来；体貌分一般、进行、完成、完成进行。例如，“现在进行时”就是“现在时间”+“进行体貌”。"
+        },
+        {
+          "point": "一般现在时的特殊用法",
+          "explanation": "除了表示现在习惯或事实，一般现在时还可表示按计划或时间表将要发生的动作（如：The train leaves at 8 PM.），以及在时间或条件状语从句中代替一般将来时（如：I will call you when I arrive.）。"
+        },
+        {
+          "point": "过去时与现在完成时的区别",
+          "explanation": "过去时强调动作发生在过去的某个具体时间点或时间段，与现在无关。现在完成时强调动作发生在过去，但其结果或影响持续到现在，或动作本身持续到现在。关键区别在于是否与现在有联系。"
+        },
+        {
+          "point": "进行体的核心含义",
+          "explanation": "进行体（be + V-ing）的核心是表示动作在某个时间点或时间段内“正在进行”或“未完成”。它常带有暂时性、动态性和未完成性，与表示长期状态或习惯的一般体形成对比。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She works in a hospital.",
+        "translation": "她在一家医院工作。",
+        "analysis": "语法解析：使用一般现在时（works），表示一个长期、稳定的职业状态或事实。"
+      },
+      {
+        "sentence": "I was watching TV when you called.",
+        "translation": "你打电话来时，我正在看电视。",
+        "analysis": "语法解析：使用过去进行时（was watching）描述在过去某个时间点（you called）正在进行的动作，背景感强。"
+      },
+      {
+        "sentence": "By next year, I will have lived here for a decade.",
+        "translation": "到明年，我就在这里住满十年了。",
+        "analysis": "语法解析：使用将来完成时（will have lived），表示到将来某个时间点（next year）之前，一个动作（lived here）将会完成，并强调其持续时间（for a decade）。"
+      },
+      {
+        "sentence": "This time tomorrow, I'll be flying to Paris.",
+        "translation": "明天这个时候，我将在飞往巴黎的途中。",
+        "analysis": "语法解析：使用将来进行时（will be flying），强调在将来某个确切时间点（this time tomorrow）动作会正在进行，常用来表示已确定的未来安排。"
+      },
+      {
+        "sentence": "I have seen that movie last week. (错误)",
+        "translation": "我上周看了那部电影。（错误表达）",
+        "analysis": "语法解析，强调常见错误：现在完成时（have seen）不能与表示过去具体时间的状语（last week）连用。应改为一般过去时：I saw that movie last week."
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Look! The boys ______ football on the playground.",
+          "options": [
+            "A. play",
+            "B. played",
+            "C. are playing",
+            "D. have played"
+          ],
+          "answer": "C",
+          "explanation": "解析：句首“Look!”提示这是一个正在发生的场景，需用现在进行时（are playing）来描述当下正在进行的动作。"
+        },
+        {
+          "question": "He ______ in this company since he graduated.",
+          "options": [
+            "A. worked",
+            "B. has worked",
+            "C. is working",
+            "D. works"
+          ],
+          "answer": "B",
+          "explanation": "解析：时间状语“since he graduated”（自从他毕业）表示从过去某点持续到现在的动作，强调与现在的联系，应用现在完成时（has worked）。"
+        },
+        {
+          "question": "If it ______ tomorrow, we will cancel the picnic.",
+          "options": [
+            "A. will rain",
+            "B. rains",
+            "C. rained",
+            "D. is raining"
+          ],
+          "answer": "B",
+          "explanation": "解析：在if引导的条件状语从句中，要用一般现在时（rains）来表示将来的情况，主句用一般将来时（will cancel）。这是“主将从现”的规则。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题1：用动词的正确形式填空。I usually ______ (go) to bed at 11 p.m.",
+          "answer": "go",
+          "explanation": "解析：句中有频率副词“usually”，表示习惯性动作，应用一般现在时。主语是I，动词用原形go。"
+        },
+        {
+          "question": "改写题2：将句子改写为过去进行时。She wrote a letter at 8 last night.",
+          "answer": "She was writing a letter at 8 last night.",
+          "explanation": "解析：原句用一般过去时（wrote）只陈述了事实。改写为过去进行时（was writing）后，更强调在“昨晚8点”那个特定时刻，动作“正在发生”的状态。"
+        }
+      ]
+    },
+    "summary": "动词时态的本质是通过动词形式的变化，精确传达动作发生的时间及其进行状态（体貌）。",
+    "related_points": [
+      "动词不定式",
+      "动名词",
+      "被动语态"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "grammar_point": "介系词",
+  "category": "简单句的成分",
+  "index": 6,
+  "content": {
+    "overview": {
+      "function": "介系词（又称介词）是连接名词、代词或名词性短语与其他句子成分的词，用于表示时间、地点、方向、方式、原因等关系。它不能单独作句子成分，必须与其后的宾语（介系词宾语）构成介系词短语，才能在句中充当状语、定语或补语。",
+      "usage_scenarios": [
+        "表示时间关系（如 at, on, in）",
+        "表示地点或方向（如 in, on, at, to）",
+        "表示方式、原因或目的（如 by, with, for）"
+      ]
+    },
+    "rules": {
+      "description": "介系词的核心规则主要涉及其后接成分、在句中的位置以及固定搭配。",
+      "key_points": [
+        {
+          "point": "后接名词性成分",
+          "explanation": "介系词后必须接名词、代词、动名词（V-ing）或名词性从句作宾语，构成介系词短语。例如：look at me（代词）， interested in swimming（动名词）。"
+        },
+        {
+          "point": "在句中的位置",
+          "explanation": "介系词短语在句中可作状语（修饰动词）、定语（修饰名词）或补语（补充说明）。作定语时通常后置，如：the book on the table（桌上的书）。"
+        },
+        {
+          "point": "固定搭配与习惯用法",
+          "explanation": "许多动词、形容词和名词与特定介系词形成固定搭配，其意义和用法需整体记忆。例如：depend on（依赖）， good at（擅长）， key to（...的关键）。"
+        },
+        {
+          "point": "部分介系词可兼作副词",
+          "explanation": "有些词如 up, down, in, out 等，当后面不接宾语时是副词，接宾语时是介系词。比较：Please sit down.（副词，无宾语）\\nPlease look down the street.（介系词，宾语是 the street）"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She arrived at the station at 8 o'clock.",
+        "translation": "她八点钟到达了车站。",
+        "analysis": "语法解析：第一个 'at' 表示地点（the station），第二个 'at' 表示具体时间点（8 o'clock）。两个 'at' 都引导介系词短语作状语，分别修饰动词 'arrived'。"
+      },
+      {
+        "sentence": "The man with glasses is my teacher.",
+        "translation": "戴眼镜的那个男人是我的老师。",
+        "analysis": "语法解析：'with glasses' 是介系词短语，作后置定语，修饰名词 'The man'，说明这个男人的特征。"
+      },
+      {
+        "sentence": "He succeeded by working hard.",
+        "translation": "他通过努力工作取得了成功。",
+        "analysis": "语法解析：'by working hard' 是介系词短语，作方式状语，修饰动词 'succeeded'。介系词 'by' 后接动名词短语 'working hard' 作宾语。"
+      },
+      {
+        "sentence": "What are you looking for?",
+        "translation": "你在找什么？",
+        "analysis": "语法解析：这是一个介系词 ('for') 置于句末的疑问句。在疑问句或定语从句中，当介系词的宾语是疑问词或关系代词时，介系词常后置，这是一种常见且地道的用法。"
+      },
+      {
+        "sentence": "I'm interested to learn English. (常见错误)",
+        "translation": "（错误表达）我对学英语感兴趣。",
+        "analysis": "语法解析，强调常见错误：形容词 'interested' 的固定搭配是 'in doing sth.'，而不是 'to do sth.'。正确句子应为：I'm interested in learning English. 这是典型的形容词与介系词搭配错误。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "We are all excited ______ the upcoming holiday.",
+          "options": [
+            "A. about",
+            "B. with",
+            "C. for",
+            "D. at"
+          ],
+          "answer": "A",
+          "explanation": "解析：形容词 'excited' 的固定搭配是 'about'，表示“对...感到兴奋”。"
+        },
+        {
+          "question": "The key ______ success is persistence.",
+          "options": [
+            "A. of",
+            "B. for",
+            "C. to",
+            "D. in"
+          ],
+          "answer": "C",
+          "explanation": "解析：名词 'key' 表示“...的关键”时，固定搭配是 'to'。"
+        },
+        {
+          "question": "Please turn ______ the light when you leave.",
+          "options": [
+            "A. off",
+            "B. of",
+            "C. down",
+            "D. out"
+          ],
+          "answer": "A",
+          "explanation": "解析：'turn off' 是固定短语动词，意为“关闭”。此处 'off' 是副词，与 'turn' 构成短语。若选 D，'turn out' 意为“结果是”，不符合语境。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题1：She apologized ______ her rude behavior. (用正确的介系词填空)",
+          "answer": "for",
+          "explanation": "解析：动词 'apologize' 的固定搭配是 'apologize for sth.'，表示为某事道歉。"
+        },
+        {
+          "question": "改写题2：将句子“The girl who is in a red dress is singing.” 改写，使用介系词短语作定语。",
+          "answer": "The girl in a red dress is singing.",
+          "explanation": "解析：原句是定语从句 'who is in a red dress' 修饰 'The girl'。可以简化为更简洁的介系词短语 'in a red dress' 作后置定语，意思不变。"
+        }
+      ]
+    },
+    "summary": "介系词是英语的“关系纽带”，通过与其宾语构成的短语，精确表达句中各成分之间的时间、空间、逻辑等关系，其固定搭配是学习重点。",
+    "related_points": [
+      "名词",
+      "代词",
+      "状语"
+    ]
+  }
+}

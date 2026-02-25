@@ -1,0 +1,124 @@
+{
+  "grammar_point": "简化子句",
+  "category": "简化句的类型",
+  "index": 21,
+  "content": {
+    "overview": {
+      "function": "简化子句（Reduced Clauses）是一种将状语从句或定语从句进行精简的语法手段，通过省略主语和部分谓语动词（通常是be动词），使句子结构更紧凑、表达更简洁。它常用于书面语和正式文体中，以提升语言的精炼度。",
+      "usage_scenarios": [
+        "在正式写作中使句子更简洁有力",
+        "在描述连续动作或状态时避免重复",
+        "在科技、法律或学术文献中精炼表达"
+      ]
+    },
+    "rules": {
+      "description": "简化子句的核心在于省略从句中与主句重复的主语和be动词，或将动词改为非谓语形式（现在分词、过去分词或不定式）。",
+      "key_points": [
+        {
+          "point": "省略主语与be动词",
+          "explanation": "当状语从句或定语从句的主语与主句主语一致，且从句包含be动词时，可以省略主语和be动词，保留分词、形容词或介词短语。例如：\"While (he was) walking in the park, he saw a bird.\""
+        },
+        {
+          "point": "使用现在分词（-ing）",
+          "explanation": "若原从句的动词为主动语态且与主句动作同时发生，可省略主语和be动词，将主要动词改为现在分词。例如：\"Because she studies hard, she gets good grades.\" 可简化为 \"Studying hard, she gets good grades.\""
+        },
+        {
+          "point": "使用过去分词（-ed）",
+          "explanation": "若原从句的动词为被动语态，可省略主语和be动词，保留过去分词。例如：\"The book that was written by him is popular.\" 可简化为 \"The book written by him is popular.\""
+        },
+        {
+          "point": "使用不定式（to do）表示目的",
+          "explanation": "当状语从句表示目的时，可简化为不定式短语。例如：\"He got up early so that he could catch the train.\" 可简化为 \"He got up early to catch the train.\""
+        },
+        {
+          "point": "注意逻辑主语一致",
+          "explanation": "简化子句的前提是省略的主语必须与主句主语逻辑上一致，否则会造成悬垂修饰错误。例如：\"Walking in the park, the flowers looked beautiful.\"（错误，因为\"花\"不能\"走\"）。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "While I was reading the book, I fell asleep.",
+        "translation": "当我读这本书的时候，我睡着了。",
+        "analysis": "语法解析：原句为时间状语从句。由于从句主语\"I\"与主句主语一致，且包含be动词\"was\"，可省略\"I was\"，将\"reading\"保留为现在分词，简化为 \"While reading the book, I fell asleep.\""
+      },
+      {
+        "sentence": "The man who is standing over there is my teacher.",
+        "translation": "站在那边的那个男人是我的老师。",
+        "analysis": "语法解析：原句为定语从句修饰\"The man\"。从句主语\"who\"指代先行词\"The man\"，且包含be动词\"is\"，可省略\"who is\"，将\"standing\"保留为现在分词，简化为 \"The man standing over there is my teacher.\""
+      },
+      {
+        "sentence": "Because she was inspired by the speech, she decided to change her career.",
+        "translation": "因为受到演讲的鼓舞，她决定改变职业。",
+        "analysis": "语法解析：原句为原因状语从句。从句主语\"she\"与主句主语一致，动词为被动语态\"was inspired\"，可省略\"she was\"，保留过去分词\"inspired\"，简化为 \"Inspired by the speech, she decided to change her career.\""
+      },
+      {
+        "sentence": "Having finished his homework, Tom went out to play.",
+        "translation": "完成了作业后，汤姆出去玩了。",
+        "analysis": "语法解析：这是一个进阶的简化子句，使用现在分词的完成式\"Having finished\"来表示从句动作（完成作业）发生在主句动作（出去玩）之前，体现了时间的先后顺序，比简单分词\"Finishing\"更精确。"
+      },
+      {
+        "sentence": "To improve your English, regular practice is essential.",
+        "translation": "为了提高你的英语，定期练习是必要的。",
+        "analysis": "语法解析：这是一个易错点。简化子句\"To improve your English\"的逻辑主语应该是\"you\"，但主句主语是\"regular practice\"（练习），两者不一致，造成了悬垂修饰错误。正确表达应为：\"To improve your English, you need regular practice.\" 或 \"Regular practice is essential to improve your English.\""
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "选择可以正确简化为分词短语的句子：",
+          "options": [
+            "A. Because he was tired, he went to bed early.",
+            "B. While she cooks dinner, her children play in the garden.",
+            "C. If it is possible, please arrive on time.",
+            "D. After they had left the building, the alarm sounded."
+          ],
+          "answer": "A",
+          "explanation": "解析：A选项原因状语从句的主语\"he\"与主句主语一致，且包含be动词\"was\"，可简化为\"Being tired, he went to bed early.\" 或直接\"Tired, he went to bed early.\"。B选项从句动词\"cooks\"不是be动词，不能直接省略。C、D选项主语不一致（C：it 和 you；D：they 和 the alarm）。"
+        },
+        {
+          "question": "下列哪个简化子句存在逻辑错误？",
+          "options": [
+            "A. Seen from the hill, the city looks magnificent.",
+            "B. Running quickly, the bus was caught by the man.",
+            "C. Built in the 18th century, the castle attracts many tourists.",
+            "D. Not knowing the answer, she remained silent."
+          ],
+          "answer": "B",
+          "explanation": "解析：B选项简化子句\"Running quickly\"的逻辑主语应该是执行\"跑\"这个动作的人，但主句主语是\"the bus\"（公交车），公交车自己不会跑，因此逻辑主语不一致，是典型的悬垂分词错误。A、C是被动意义的过去分词，D是现在分词，其逻辑主语均与主句主语一致。"
+        },
+        {
+          "question": "\"The proposal ___ at the meeting was approved unanimously.\" 空格处应填入：",
+          "options": [
+            "A. discussing",
+            "B. discussed",
+            "C. to discuss",
+            "D. being discussed"
+          ],
+          "answer": "B",
+          "explanation": "解析：原句可还原为定语从句\"The proposal that was discussed at the meeting...\"。修饰名词\"proposal\"的动词\"discuss\"应为被动语态（提案被讨论），因此简化时应使用过去分词\"discussed\"。A是现在分词表主动，C是不定式常表目的或将来，D是现在分词的被动进行式，强调正在被讨论，与句意\"被批准\"的完成性不最匹配。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：将括号中的从句简化为适当的分词短语。\\n________ (After he had graduated from university), he started his own business.",
+          "answer": "Having graduated from university",
+          "explanation": "解析：原句为时间状语从句，主语一致（he）。由于从句动作\"毕业\"发生在主句动作\"创业\"之前，需要使用现在分词的完成式\"Having graduated\"来表示时间的先后。"
+        },
+        {
+          "question": "改写题：将下列句子改写为包含简化子句的句子。\\nThe system which was developed by our team has won an award.",
+          "answer": "The system developed by our team has won an award.",
+          "explanation": "解析：原句是定语从句\"which was developed...\"修饰\"The system\"。由于关系代词\"which\"指代先行词，且从句为被动语态（was developed），可省略\"which was\"，直接使用过去分词\"developed\"作为后置定语。"
+        }
+      ]
+    },
+    "summary": "简化子句的核心要义是通过省略重复成分和改变动词形式，将从句精炼为分词、不定式等短语，从而使句子结构更紧凑、表达更高效，但必须严格遵守逻辑主语一致的原则。",
+    "related_points": [
+      "分词短语",
+      "不定式短语",
+      "定语从句",
+      "状语从句",
+      "悬垂修饰语"
+    ]
+  }
+}

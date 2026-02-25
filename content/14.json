@@ -1,0 +1,118 @@
+{
+  "grammar_point": "对等连接词",
+  "category": "简单句的成分",
+  "index": 14,
+  "content": {
+    "overview": {
+      "function": "对等连接词（Coordinating Conjunctions）用于连接语法功能对等的词、短语或句子，使其在逻辑上并列。其核心功能是表达并列、转折、选择或因果等逻辑关系，使语言表达更加连贯和丰富。",
+      "usage_scenarios": [
+        "连接两个或多个并列的单词或短语",
+        "连接两个或多个独立的简单句（分句）",
+        "在列举事物时，连接最后两项"
+      ]
+    },
+    "rules": {
+      "description": "对等连接词遵循\"对等原则\"，即连接的两部分在语法结构和逻辑上必须平行。",
+      "key_points": [
+        {
+          "point": "核心连接词",
+          "explanation": "最常见的对等连接词是FANBOYS：For, And, Nor, But, Or, Yet, So。它们分别表示原因、并列、否定并列、转折、选择、轻微转折和结果。"
+        },
+        {
+          "point": "对等原则",
+          "explanation": "连接词前后连接的成分必须在语法功能上对等。例如，名词连接名词，动词连接动词，句子连接句子。"
+        },
+        {
+          "point": "标点使用",
+          "explanation": "当连接两个独立的句子（分句）时，连接词前通常需要加逗号。当连接两个单词或短语时，通常不加逗号，除非在列举三项或以上时，最后一项前加连接词。"
+        },
+        {
+          "point": "\"Nor\"的特殊用法",
+          "explanation": "\"Nor\"用于连接两个否定概念，且当它位于句首连接一个分句时，该分句需要主谓倒装。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She is smart and diligent.",
+        "translation": "她既聪明又勤奋。",
+        "analysis": "语法解析：对等连接词\"and\"连接了两个对等的形容词\"smart\"和\"diligent\"，作表语。"
+      },
+      {
+        "sentence": "I wanted to go for a walk, but it started to rain.",
+        "translation": "我想去散步，但是开始下雨了。",
+        "analysis": "语法解析：对等连接词\"but\"连接了两个独立的句子（\"I wanted...\"和\"it started...\"），表示转折关系。连接词前使用了逗号。"
+      },
+      {
+        "sentence": "You can have tea, coffee, or juice.",
+        "translation": "你可以喝茶、咖啡或果汁。",
+        "analysis": "语法解析：对等连接词\"or\"在列举多项（tea, coffee, juice）时，用于连接最后两项，表示选择关系。在列举中，各项之间用逗号隔开。"
+      },
+      {
+        "sentence": "He not only finished his work, but he also helped his colleagues.",
+        "translation": "他不仅完成了自己的工作，还帮助了同事。",
+        "analysis": "语法解析：这是一个进阶用法。\"not only... but also...\"是一组关联对等连接词，用于强调递进关系。它连接了两个对等的分句，结构平行（都包含主语和谓语）。"
+      },
+      {
+        "sentence": "He likes swimming and to run. (错误) -> He likes swimming and running.",
+        "translation": "他喜欢游泳和跑步。",
+        "analysis": "语法解析，强调常见错误：原句违反了\"对等原则\"。\"likes\"后面应接对等的宾语。\"swimming\"（动名词）和\"to run\"（不定式）语法形式不一致。改正后，用两个动名词\"swimming\"和\"running\"作宾语，保持平行。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "选择正确的选项完成句子：\\nI need to buy some milk, eggs, _____ bread.",
+          "options": [
+            "A. but",
+            "B. or",
+            "C. and",
+            "D. so"
+          ],
+          "answer": "C",
+          "explanation": "解析：句子是在列举需要购买的物品（milk, eggs, bread），最后两项之间应用表示并列的\"and\"连接。"
+        },
+        {
+          "question": "下列哪个句子中的对等连接词使用正确？",
+          "options": [
+            "A. She is tired, so she goes to bed early.",
+            "B. He is tall but his brother is short.",
+            "C. Would you like tea nor coffee?",
+            "D. I called him, for he didn't answer."
+          ],
+          "answer": "A",
+          "explanation": "解析：A正确，\"so\"连接两个独立分句表示结果，前面有逗号。B错误，连接两个独立分句时，\"but\"前应有逗号。C错误，疑问句中的选择应用\"or\"而非\"nor\"。D错误，\"for\"表示原因时语气正式，通常不用于句首，且逻辑上\"打电话\"并非\"没接电话\"的原因，此处使用不当。"
+        },
+        {
+          "question": "请选择遵循了“对等原则”的句子：",
+          "options": [
+            "A. His hobbies are reading books and to play guitar.",
+            "B. She succeeded through hard work and because she was talented.",
+            "C. The plan is ambitious yet achievable.",
+            "D. He apologized sincerely and with regret."
+          ],
+          "answer": "C",
+          "explanation": "解析：C正确，\"yet\"连接了两个对等的形容词\"ambitious\"和\"achievable\"。A错误，连接了动名词\"reading\"和不定式\"to play\"。B错误，连接了名词短语\"hard work\"和从句\"because...\"。D错误，连接了副词\"sincerely\"和介词短语\"with regret\"。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题1：用合适的对等连接词填空（FANBOYS中选择）。\\nI would like to go, _____ I am too busy.",
+          "answer": "but",
+          "explanation": "解析：前后两个分句\"I would like to go\"和\"I am too busy\"在意思上存在明显的转折关系，因此应使用表示转折的对等连接词\"but\"。"
+        },
+        {
+          "question": "改写题2：将以下两个简单句合并为一个使用对等连接词的句子。\\nThe movie was long. It was very interesting.",
+          "answer": "The movie was long, but it was very interesting.",
+          "explanation": "解析：原句两个简单句在内容上形成对比（长但有趣），存在转折关系。使用对等连接词\"but\"进行合并，并在其前加上逗号，构成一个并列句。"
+        }
+      ]
+    },
+    "summary": "对等连接词的核心要义是连接语法地位平等的成分，并体现它们之间的逻辑关系，使用时必须严格遵守“对等原则”。",
+    "related_points": [
+      "从属连接词",
+      "关联连接词",
+      "句子结构（简单句与并列句）"
+    ]
+  }
+}

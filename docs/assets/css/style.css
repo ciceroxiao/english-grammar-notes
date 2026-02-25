@@ -1,0 +1,308 @@
+/* 英语语法学习网站样式 */
+
+:root {
+    --primary-color: #2563eb;
+    --secondary-color: #64748b;
+    --bg-color: #f8fafc;
+    --card-bg: #ffffff;
+    --text-color: #1e293b;
+    --border-color: #e2e8f0;
+    --success-color: #22c55e;
+    --warning-color: #f59e0b;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* 面包屑导航 */
+.breadcrumb {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
+
+.breadcrumb a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumb span {
+    color: var(--secondary-color);
+}
+
+/* 主内容区 */
+.grammar-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1rem 2rem;
+}
+
+/* 页面标题 */
+.page-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.index-badge {
+    display: inline-block;
+    background: var(--primary-color);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+}
+
+.page-header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+}
+
+.page-header .subtitle {
+    color: var(--secondary-color);
+    font-size: 1rem;
+}
+
+/* 卡片样式 */
+.card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.card h3 {
+    font-size: 1.1rem;
+    margin: 1rem 0 0.5rem;
+    color: var(--secondary-color);
+}
+
+/* 概览区 */
+.overview .function {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    margin-bottom: 1rem;
+}
+
+.usage-scenarios ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.usage-scenarios li {
+    padding: 0.25rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.usage-scenarios li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--success-color);
+}
+
+/* 规则区 */
+.rules-description {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
+.key-point {
+    background: var(--bg-color);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+}
+
+.key-point h4 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+/* 例句区 */
+.example-item {
+    background: var(--bg-color);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    border-left: 4px solid var(--primary-color);
+}
+
+.example-item .sentence {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+}
+
+.example-item .translation {
+    color: var(--secondary-color);
+    font-size: 0.95rem;
+    margin-bottom: 0.5rem;
+}
+
+.example-item .analysis {
+    color: var(--warning-color);
+    font-size: 0.9rem;
+}
+
+/* 练习区 */
+.exercise-section {
+    margin-bottom: 1.5rem;
+}
+
+.question {
+    background: var(--bg-color);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.q-text {
+    margin-bottom: 0.75rem;
+}
+
+.options label {
+    display: block;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.options input {
+    margin-right: 0.5rem;
+}
+
+.fill-input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.answers-toggle button {
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.answers-toggle button:hover {
+    opacity: 0.9;
+}
+
+.answers {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #f0fdf4;
+    border-radius: 8px;
+}
+
+/* 总结区 */
+.summary blockquote {
+    background: #eff6ff;
+    border-left: 4px solid var(--primary-color);
+    padding: 1rem 1.5rem;
+    font-style: italic;
+    border-radius: 0 8px 8px 0;
+}
+
+/* 相关知识点 */
+.related-points {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.related-tag {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: var(--bg-color);
+    border-radius: 9999px;
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 0.9rem;
+}
+
+.related-tag:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+/* 页面导航 */
+.page-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.page-nav a {
+    color: var(--primary-color);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+}
+
+.page-nav a:hover {
+    background: var(--bg-color);
+}
+
+.page-nav .prev::before {
+    content: "← ";
+}
+
+.page-nav .next::after {
+    content: " →";
+}
+
+/* 页脚 */
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+}
+
+/* 响应式 */
+@media (max-width: 600px) {
+    .page-header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .card {
+        padding: 1rem;
+    }
+    
+    .page-nav {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}

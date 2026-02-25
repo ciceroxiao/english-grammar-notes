@@ -1,0 +1,122 @@
+{
+  "grammar_point": "语态",
+  "category": "简单句的成分",
+  "index": 9,
+  "content": {
+    "overview": {
+      "function": "语态（Voice）是动词的一种形式，用于表明句子主语与谓语动词所表示的动作或状态之间的关系。它主要分为主动语态和被动语态。主动语态表示主语是动作的执行者，而被动语态表示主语是动作的承受者。",
+      "usage_scenarios": [
+        "当强调动作的承受者而非执行者时",
+        "当动作的执行者不明确、不重要或不愿提及时",
+        "在正式文体或科技文章中，为使表达更客观"
+      ]
+    },
+    "rules": {
+      "description": "被动语态的核心构成是“be动词 + 及物动词的过去分词”。其使用和转换遵循特定规则。",
+      "key_points": [
+        {
+          "point": "基本结构",
+          "explanation": "被动语态的基本结构为：主语 + be动词（根据时态变化）+ 及物动词的过去分词（+ by + 动作执行者）。例如，一般现在时：am/is/are done；一般过去时：was/were done。"
+        },
+        {
+          "point": "时态一致性",
+          "explanation": "被动语态的时态通过be动词的变化来体现，必须与句子需要表达的时态保持一致。过去分词部分保持不变。例如，现在进行时被动：am/is/are being done；现在完成时被动：has/have been done。"
+        },
+        {
+          "point": "及物动词限制",
+          "explanation": "只有及物动词（后面可以直接接宾语的动词）才能构成被动语态。不及物动词（如 happen, appear, die）以及“动词+介词”构成的及物短语动词（如 look after, take care of）也可用于被动，但介词必须保留。"
+        },
+        {
+          "point": "双宾语与宾补的被动转换",
+          "explanation": "带有双宾语（间接宾语+直接宾语）的句子（如 give sb. sth.）变为被动语态时，通常将表示“人”的间接宾语变为主语更自然。带有宾语补足语的句子变为被动时，原宾补变成主语补足语。"
+        },
+        {
+          "point": "情态动词的被动",
+          "explanation": "结构为：情态动词（can, must, should等）+ be + 过去分词。例如：The work must be finished today.（这项工作今天必须完成。）"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "The company launched a new product last month.",
+        "translation": "该公司上个月推出了一款新产品。",
+        "analysis": "语法解析：这是一个主动语态的句子。主语“The company”是动作“launched”的执行者。"
+      },
+      {
+        "sentence": "A new product was launched by the company last month.",
+        "translation": "一款新产品于上个月被该公司推出。",
+        "analysis": "语法解析：这是例句1的被动语态形式。主语变成了动作的承受者“A new product”，谓语变为“was launched”（一般过去时被动），动作执行者用“by the company”引出。"
+      },
+      {
+        "sentence": "This bridge was built in 1990 and is still in use today.",
+        "translation": "这座桥建于1990年，至今仍在使用。",
+        "analysis": "语法解析：句子包含两个并列谓语。第一个“was built”是一般过去时被动，强调桥是“被建造”的，建造者未知或不重要。第二个“is used”是一般现在时被动，表示当前状态。"
+      },
+      {
+        "sentence": "The patient is being operated on by the best surgeon in the hospital right now.",
+        "translation": "病人此刻正在由医院里最好的外科医生进行手术。",
+        "analysis": "语法解析：这是一个现在进行时的被动语态（am/is/are being + 过去分词），强调动作“正在被进行”。短语动词“operate on”的介词“on”在被动语态中必须保留。"
+      },
+      {
+        "sentence": "A lot of money were spent on the project. (错误)",
+        "translation": "在这个项目上花了很多钱。",
+        "analysis": "语法解析，强调常见错误：主语“money”是不可数名词，谓语动词应用单数。正确句子应为：A lot of money was spent on the project. 在被动语态中，be动词必须与新的主语（动作承受者）保持人称和数的一致。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "The novel \"1984\" _______ by George Orwell.",
+          "options": [
+            "A. wrote",
+            "B. was written",
+            "C. is written",
+            "D. has written"
+          ],
+          "answer": "B",
+          "explanation": "解析：小说《1984》是“被写”的，应用被动语态。乔治·奥威尔是过去的人，动作发生在过去，应用一般过去时被动“was written”。C选项是一般现在时，表示习惯或真理，此处不合适。"
+        },
+        {
+          "question": "Great changes _______ in my hometown since 2010.",
+          "options": [
+            "A. have taken place",
+            "B. have been taken place",
+            "C. took place",
+            "D. were taken place"
+          ],
+          "answer": "A",
+          "explanation": "解析：“take place”（发生）是不及物动词短语，不能用于被动语态。句中有“since 2010”，强调对现在的影响，应用现在完成时。因此选A。这是一个常见易错点，需牢记不及物动词无被动。"
+        },
+        {
+          "question": "The children _______ not to play with fire.",
+          "options": [
+            "A. warn",
+            "B. warned",
+            "C. are warning",
+            "D. are warned"
+          ],
+          "answer": "D",
+          "explanation": "解析：孩子们是“被警告”的对象。这里描述的是一种常规的告诫，应用一般现在时的被动语态“are warned”。句子相当于主动语态：Someone warns the children not to play with fire."
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题1：用动词的适当形式填空。The meeting _______ (hold) tomorrow afternoon.",
+          "answer": "will be held",
+          "explanation": "解析：会议是“被举行”，应用被动语态。时间状语“tomorrow afternoon”表明是将来的时间，所以用一般将来时的被动语态：will be + 过去分词。"
+        },
+        {
+          "question": "改写题2：将句子改写为被动语态。They gave her a warm welcome at the airport.",
+          "answer": "She was given a warm welcome at the airport. (或 A warm welcome was given to her at the airport.)",
+          "explanation": "解析：原句是“动词+双宾语”（gave her a welcome）。改为被动语态时，更常见的做法是将间接宾语“her”变为主语“She”，谓语变为“was given”，直接宾语“a warm welcome”保留。"
+        }
+      ]
+    },
+    "summary": "语态的核心在于通过动词形式的变化来转换动作的焦点，被动语态通过“be + 过去分词”的结构，将叙述重点从执行者转移到承受者。",
+    "related_points": [
+      "动词的时态",
+      "及物动词与不及物动词",
+      "句子成分（主语、宾语）"
+    ]
+  }
+}

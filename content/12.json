@@ -1,0 +1,122 @@
+{
+  "grammar_point": "动名词",
+  "category": "简单句的成分",
+  "index": 12,
+  "content": {
+    "overview": {
+      "function": "动名词是动词的-ing形式，在句中起名词作用，可以充当主语、宾语、表语等成分。它保留了动词的一些特性，如可以带宾语和状语，但整体功能相当于一个名词。",
+      "usage_scenarios": [
+        "作句子的主语",
+        "作及物动词或介词的宾语",
+        "作句子的表语"
+      ]
+    },
+    "rules": {
+      "description": "动名词的核心规则涉及其构成、句法功能以及与现在分词的区别。",
+      "key_points": [
+        {
+          "point": "构成与形式",
+          "explanation": "动名词由动词原形加-ing构成，其否定形式为“not + 动名词”。它有时态和语态的变化，如完成式（having done）和被动式（being done）。"
+        },
+        {
+          "point": "句法功能",
+          "explanation": "动名词可以在句中充当主语（如：Swimming is good for health.）、宾语（包括动词宾语和介词宾语，如：I enjoy reading. / She is good at singing.）以及表语（如：His job is teaching.）。"
+        },
+        {
+          "point": "动名词的逻辑主语",
+          "explanation": "当动名词的动作执行者不是句子的主语时，需要用所有格（如：my, John's）或宾格（如：me, him）形式来表示其逻辑主语，例如：Do you mind my opening the window?"
+        },
+        {
+          "point": "后接动名词的动词",
+          "explanation": "某些动词后必须或通常接动名词作宾语，如：enjoy, finish, avoid, practice, suggest, mind, admit等。需要特别记忆这些动词。"
+        },
+        {
+          "point": "与现在分词的区别",
+          "explanation": "动名词主要起名词作用，而现在分词主要起形容词或副词作用，用于构成进行时或作定语、状语等。例如：a sleeping bag（睡袋，sleeping是动名词作定语，表示用途）与 a sleeping baby（正在睡觉的婴儿，sleeping是现在分词作定语，表示状态）。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "Reading books broadens your horizons.",
+        "translation": "读书能开阔你的视野。",
+        "analysis": "语法解析：动名词短语“Reading books”在句中充当主语。"
+      },
+      {
+        "sentence": "She suggested going to the cinema tonight.",
+        "translation": "她建议今晚去看电影。",
+        "analysis": "语法解析：动词“suggested”后接动名词短语“going to the cinema”作宾语。"
+      },
+      {
+        "sentence": "My favorite hobby is collecting stamps.",
+        "translation": "我最大的爱好是集邮。",
+        "analysis": "语法解析：动名词短语“collecting stamps”在系动词“is”后作表语。"
+      },
+      {
+        "sentence": "He left without saying goodbye to anyone.",
+        "translation": "他没有和任何人道别就离开了。",
+        "analysis": "语法解析：动名词短语“saying goodbye to anyone”作介词“without”的宾语。"
+      },
+      {
+        "sentence": "I look forward to hearing from you soon.",
+        "translation": "我期待尽快收到你的来信。",
+        "analysis": "语法解析：此处“to”是介词，所以后面接动名词“hearing”。这是常见易错点，容易与动词不定式的“to”混淆。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Would you mind _____ the window? It's a bit cold.",
+          "options": [
+            "A. close",
+            "B. to close",
+            "C. closing",
+            "D. closed"
+          ],
+          "answer": "C",
+          "explanation": "解析：动词“mind”后面必须接动名词作宾语，因此选C。"
+        },
+        {
+          "question": "We are considering _____ a new car next year.",
+          "options": [
+            "A. buy",
+            "B. to buy",
+            "C. buying",
+            "D. bought"
+          ],
+          "answer": "C",
+          "explanation": "解析：动词“consider”后面通常接动名词作宾语，表示“考虑做某事”。"
+        },
+        {
+          "question": "_____ too much junk food is bad for your health.",
+          "options": [
+            "A. Eat",
+            "B. Eating",
+            "C. To eat",
+            "D. Ate"
+          ],
+          "answer": "B",
+          "explanation": "解析：句子需要一个主语，动名词短语“Eating too much junk food”可以充当主语，而动词不定式（C）虽然也可作主语，但在此更常见的表达是动名词。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题1：I really enjoy _____ (listen) to classical music.",
+          "answer": "listening",
+          "explanation": "解析：动词“enjoy”后接动名词作宾语。"
+        },
+        {
+          "question": "改写题2：将“It is important to learn a foreign language.” 改写为以动名词短语作主语的句子。",
+          "answer": "Learning a foreign language is important.",
+          "explanation": "解析：原句动词不定式“to learn a foreign language”作主语，可以用动名词短语“Learning a foreign language”替换，意思基本相同。"
+        }
+      ]
+    },
+    "summary": "动名词是动词的-ing名词化形式，核心功能是在句中充当名词性成分（主、宾、表），并保留了动词可带宾语或状语的特点。",
+    "related_points": [
+      "现在分词",
+      "动词不定式",
+      "分词作定语"
+    ]
+  }
+}

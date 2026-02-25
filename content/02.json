@@ -1,0 +1,114 @@
+{
+  "grammar_point": "代名词",
+  "category": "简单句的成分",
+  "index": 2,
+  "content": {
+    "overview": {
+      "function": "代名词（Pronoun）的核心功能是代替名词或名词短语，以避免重复，使语言表达更简洁流畅。它可以在句子中充当主语、宾语、表语等成分，指代已知或上下文提及的人、事物、地点或概念。",
+      "usage_scenarios": [
+        "避免名词重复，使句子简洁",
+        "指代前文已提及的人或事物",
+        "在未知具体对象时进行泛指或提问"
+      ]
+    },
+    "rules": {
+      "description": "代名词的使用需遵循人称、数、格和性的一致性原则，并根据在句中的功能选择正确形式。",
+      "key_points": [
+        {
+          "point": "人称、数与格",
+          "explanation": "代名词必须与其所指代的名词在人称（第一、二、三人称）和数（单数、复数）上保持一致。同时，根据其在句中的语法功能（主语、宾语、所有格）使用相应的主格、宾格或所有格形式。例如：I（主格） like her（宾格）。"
+        },
+        {
+          "point": "指代明确",
+          "explanation": "代名词的指代对象必须清晰明确，避免产生歧义。通常，代名词指代距离它最近且性数一致的前述名词（先行词）。例如：'Tom told John that he was right.' 中的 'he' 可能指代不明。"
+        },
+        {
+          "point": "关系代名词与疑问代名词",
+          "explanation": "关系代名词（如who, which, that）用于引导定语从句，连接主句和从句，并在从句中充当成分。疑问代名词（如who, what, which）用于构成特殊疑问句，询问具体信息。两者形式有重叠，但功能不同。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She is a doctor, and she loves her job.",
+        "translation": "她是一名医生，并且她热爱她的工作。",
+        "analysis": "语法解析：句子中三个'she'和'her'都是人称代名词，分别代替前文可能提及或语境中明确的女性。'She'（主格）作主语，'her'（所有格）修饰'job'，避免了名词的重复。"
+      },
+      {
+        "sentence": "The book that you recommended is very interesting.",
+        "translation": "你推荐的那本书非常有趣。",
+        "analysis": "语法解析：'that'是关系代名词，引导定语从句'that you recommended'，修饰先行词'The book'，同时在定语从句中充当动词'recommended'的宾语。"
+      },
+      {
+        "sentence": "Could you please pass me that?",
+        "translation": "你能把那个递给我吗？",
+        "analysis": "语法解析：'that'是指示代名词，在这里代替说话双方都知道的某个具体物品，避免了直接说出物品名称，使对话更简洁。'me'是人称代名词'I'的宾格形式，作动词'pass'的间接宾语。"
+      },
+      {
+        "sentence": "Whoever finishes the task first will get a bonus.",
+        "translation": "无论谁先完成任务都将获得奖金。",
+        "analysis": "语法解析：'Whoever'是复合关系代名词，相当于'anyone who'。它引导一个名词性从句'Whoever finishes the task first'，并在该从句中作主语，同时整个从句充当主句的主语。这是代名词的进阶用法。"
+      },
+      {
+        "sentence": "Between you and I, this plan is risky.",
+        "translation": "就你我之间说说，这个计划有风险。",
+        "analysis": "语法解析：此句为常见错误。介词'between'后面应接代名词的宾格形式。正确应为'Between you and me'。因为'you'主宾格同形，而'I'是主格，在这里误用。强调：介词后的代名词必须用宾格。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Sarah and ______ went to the library yesterday.",
+          "options": [
+            "A. me",
+            "B. I",
+            "C. myself",
+            "D. mine"
+          ],
+          "answer": "B",
+          "explanation": "解析：空格处与'Sarah'并列作句子的主语，因此需用人称代名词的主格形式'I'。A是宾格，C是反身代名词，D是所有格代名词，均不符合主语成分要求。"
+        },
+        {
+          "question": "This is the teacher ______ taught us English last year.",
+          "options": [
+            "A. which",
+            "B. whom",
+            "C. who",
+            "D. whose"
+          ],
+          "answer": "C",
+          "explanation": "解析：空格需要引导一个定语从句修饰'the teacher'，且代名词在从句中充当主语（taught）。指代人并在从句中作主语时，应用关系代名词'who'。A用于指物；B用于指人作宾语；D表示所有格。"
+        },
+        {
+          "question": "Could you lend ______ your pen? I forgot ______.",
+          "options": [
+            "A. me, mine",
+            "B. I, my",
+            "C. me, my",
+            "D. I, mine"
+          ],
+          "answer": "A",
+          "explanation": "解析：第一空在动词'lend'后作间接宾语，需用宾格'me'。第二空后无名词，表示'我的（笔）'，需用名词性物主代名词'mine'。B和D的主格'I'不能作宾语；C的'my'是形容词性物主代名词，后面必须接名词。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：Please give the book to ______ (she).",
+          "answer": "her",
+          "explanation": "解析：介词'to'后面应接代名词的宾格形式。'she'的宾格是'her'。"
+        },
+        {
+          "question": "改写题：将\"The car is red. The car is parked outside.\"用关系代名词合并成一句。",
+          "answer": "The car that is parked outside is red.",
+          "explanation": "解析：用关系代名词'that'（或'which'）引导定语从句'that is parked outside'，修饰先行词'The car'，从而将两个简单句合并为一个包含定语从句的复合句，使表达更紧凑。"
+        }
+      ]
+    },
+    "summary": "代名词是代替名词并体现人称、数、格等语法范畴的词类，其核心在于准确指代并使语言简洁。",
+    "related_points": [
+      "名词",
+      "定语从句",
+      "主谓一致"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "grammar_point": "语气助动词",
+  "category": "简单句的成分",
+  "index": 10,
+  "content": {
+    "overview": {
+      "function": "语气助动词（Modal Auxiliary Verbs）用于表达说话者对动作或状态的态度、看法、推测、意愿、能力、许可或义务等。它们不能独立作谓语，必须与主要动词的原形一起构成谓语部分，为句子增添各种语气色彩。",
+      "usage_scenarios": [
+        "表达能力或可能性（如 can, could）",
+        "表达许可或请求（如 may, can, could）",
+        "表达义务或建议（如 must, should, ought to）",
+        "表达意愿或打算（如 will, would）",
+        "表达推测或可能性（如 may, might, must, could）"
+      ]
+    },
+    "rules": {
+      "description": "语气助动词的核心语法规则主要涉及其形式变化和句法功能。",
+      "key_points": [
+        {
+          "point": "后接动词原形",
+          "explanation": "语气助动词后必须跟动词原形（不带to的不定式）。例如：\"She can swim.\"（正确），不能说 \"She can to swim.\" 或 \"She can swimming.\"。"
+        },
+        {
+          "point": "无人称和单复数变化",
+          "explanation": "语气助动词本身没有第三人称单数形式（不加-s）。例如：\"He can speak English.\"（正确），不能说 \"He cans speak English.\"。"
+        },
+        {
+          "point": "构成疑问与否定",
+          "explanation": "构成疑问句时，直接将语气助动词提到主语前；构成否定句时，直接在语气助动词后加not。例如：\"Can you help me?\" \"You must not smoke here.\"。它们通常没有独立的do/does/did助动词形式。"
+        },
+        {
+          "point": "时态表达有限",
+          "explanation": "大多数语气助动词本身没有完整的时态变化体系。过去时意义常通过特定助动词表达（如can→could, will→would, may→might），但很多时候这些“过去式”并不表示过去时间，而是表示更委婉、不确定或虚拟的语气。"
+        },
+        {
+          "point": "不能叠加使用",
+          "explanation": "通常情况下，一个谓语部分只能使用一个语气助动词。不能说 \"I will can go.\"，但可以通过其他方式表达，如 \"I will be able to go.\"。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "You should review your notes before the exam.",
+        "translation": "考试前你应该复习一下笔记。",
+        "analysis": "语法解析：句中 \"should\" 是语气助动词，表达一种建议或温和的义务。它后接动词原形 \"review\"，共同构成谓语。"
+      },
+      {
+        "sentence": "It might rain later, so take an umbrella.",
+        "translation": "晚些时候可能会下雨，所以带把伞吧。",
+        "analysis": "语法解析：\"might\" 表示一种不确定的推测或可能性，语气比 \"may\" 更弱。后接动词原形 \"rain\"。"
+      },
+      {
+        "sentence": "Could you please pass me the salt?",
+        "translation": "请问你能把盐递给我吗？",
+        "analysis": "语法解析：\"Could\" 在这里并非表示过去的能力，而是表示一种非常礼貌的请求，比 \"Can\" 更正式、更委婉。"
+      },
+      {
+        "sentence": "He must have missed the train; otherwise he would be here by now.",
+        "translation": "他一定是错过了火车；否则他现在应该到了。",
+        "analysis": "语法解析：这是一个进阶用法。\"must have + 过去分词\" 表示对过去已发生事情的肯定性推测（他错过了火车是过去的动作）。\"would be\" 则表示基于当前情况（他没到）对现在状态的一种虚拟推测。"
+      },
+      {
+        "sentence": "I can to play the piano. (错误) / I can play the piano. (正确)",
+        "translation": "（错误）/ 我会弹钢琴。（正确）",
+        "analysis": "语法解析，强调常见错误：这是最常见的错误之一。语气助动词（can）后必须直接跟动词原形（play），不能加 \"to\"。同样，\"I must going now.\" 也是错误的，应为 \"I must go now.\"。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Which sentence is CORRECT?",
+          "options": [
+            "A. She mays come tomorrow.",
+            "B. She may comes tomorrow.",
+            "C. She may come tomorrow.",
+            "D. She may to come tomorrow."
+          ],
+          "answer": "C",
+          "explanation": "解析：语气助动词 \"may\" 无人称变化（A错），后接动词原形 \"come\"（B的comes是第三人称单数形式，错；D多了to，错）。C是唯一正确选项。"
+        },
+        {
+          "question": "To express a strong recommendation, which modal verb is most appropriate?",
+          "options": [
+            "A. could",
+            "B. might",
+            "C. should",
+            "D. must"
+          ],
+          "answer": "C",
+          "explanation": "解析：A（could）表能力或委婉请求；B（might）表可能性；C（should）表建议或推荐，语气较强；D（must）表强制性的义务或必然推测。表达强烈推荐，\"should\" 最合适。"
+        },
+        {
+          "question": "He _____ be at home. The lights are off.",
+          "options": [
+            "A. can't",
+            "B. mustn't",
+            "C. shouldn't",
+            "D. wouldn't"
+          ],
+          "answer": "A",
+          "explanation": "解析：根据后半句“灯关着”这一证据，进行否定性推测“他不可能在家”。表示“不可能”的否定推测用 \"can't\"。\"mustn't\" 表示“禁止”，不用于推测。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：You _____ (not, smoke) in the hospital. It's strictly prohibited.",
+          "answer": "must not smoke",
+          "explanation": "解析：句意“你在医院不准吸烟。这是严格禁止的。”表达强烈的禁止或不允许，应使用 \"must not\" + 动词原形。"
+        },
+        {
+          "question": "改写题：将句子改为更委婉的请求：\"Will you open the window?\"",
+          "answer": "Could/Would you open the window?",
+          "explanation": "解析：\"Will you...?\" 可以表示请求，但语气比较直接。使用 \"Could you...?\" 或 \"Would you...?\" 来表达请求更为礼貌和委婉。"
+        }
+      ]
+    },
+    "summary": "语气助动词是为句子添加态度、推测、意愿等语气色彩的功能词，其核心在于后接动词原形且自身形式固定。",
+    "related_points": [
+      "情态动词的完成式（如 must have done）",
+      "情态动词的被动语态（如 can be done）",
+      "半情态动词（如 need to, have to, ought to）"
+    ]
+  }
+}

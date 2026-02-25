@@ -1,0 +1,118 @@
+{
+  "grammar_point": "对等子句",
+  "category": "复合句的类型",
+  "index": 15,
+  "content": {
+    "overview": {
+      "function": "对等子句，也称为并列句，用于连接两个或多个在语法上地位平等、意义相关的主句。它的核心功能是表达并列、转折、选择、因果等逻辑关系，使句子结构更丰富，逻辑更清晰。",
+      "usage_scenarios": [
+        "表达两个同时发生或同等重要的动作或状态",
+        "表达两个观点之间的对比或转折关系",
+        "表达在多个选项或可能性之间进行选择"
+      ]
+    },
+    "rules": {
+      "description": "对等子句由两个或以上的独立子句（主句）通过并列连词或标点符号连接而成。",
+      "key_points": [
+        {
+          "point": "结构对等",
+          "explanation": "连接的两个部分必须是语法上完整的独立子句（即每个部分都能独立成句），并且结构上通常平行或对等。"
+        },
+        {
+          "point": "连接手段",
+          "explanation": "主要通过并列连词（如 and, but, or, so, for, yet, nor）连接，也可以用分号（;）或“副词+逗号”（如 however, therefore）的结构来连接。"
+        },
+        {
+          "point": "逗号使用",
+          "explanation": "当使用并列连词（如 and, but, or）连接两个独立子句时，连词前通常需要加逗号。但若子句很短，逗号有时可省略。"
+        },
+        {
+          "point": "意义关联",
+          "explanation": "被连接的子句在意义上必须有紧密的逻辑联系，如并列、转折、因果、选择等，不能是毫不相干的内容。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She loves reading, and he enjoys hiking.",
+        "translation": "她喜欢阅读，而他喜欢徒步。",
+        "analysis": "语法解析：这是一个典型的并列句。两个独立子句“She loves reading”和“he enjoys hiking”通过并列连词“and”连接，表达两个并列的事实。连词前使用了逗号。"
+      },
+      {
+        "sentence": "I wanted to go for a walk, but it started to rain heavily.",
+        "translation": "我想去散步，但开始下大雨了。",
+        "analysis": "语法解析：两个独立子句通过表示转折关系的并列连词“but”连接，表达了意愿与实际情况的冲突。"
+      },
+      {
+        "sentence": "You can finish your work now, or you can do it tomorrow morning.",
+        "translation": "你可以现在完成工作，或者明天早上再做。",
+        "analysis": "语法解析：两个独立子句通过表示选择关系的并列连词“or”连接，提出了两种可能性。"
+      },
+      {
+        "sentence": "The experiment was complex; however, the results were clear and conclusive.",
+        "translation": "实验很复杂；然而，结果清晰且具有决定性。",
+        "analysis": "语法解析：这是一个进阶用法。两个独立子句用分号（;）连接，后接转折副词“however”和逗号。这种结构比单独用“but”更正式，强调对比。"
+      },
+      {
+        "sentence": "He is tired, he wants to go to bed early. (错误示例)",
+        "translation": "他很累，他想早点睡觉。",
+        "analysis": "语法解析，强调常见错误：这是常见的“逗号粘连”错误。两个独立子句仅用逗号连接，缺少必要的并列连词。正确形式应为：“He is tired, so he wants to go to bed early.” 或 “He is tired; he wants to go to bed early.”"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "选择正确的选项完成句子：I have finished my homework, ____ I can help you with yours now.",
+          "options": [
+            "A. , so",
+            "B. so",
+            "C. , but",
+            "D. but"
+          ],
+          "answer": "A",
+          "explanation": "解析：空格前是一个完整的独立子句，空格后也是一个完整的独立子句。根据句意“我已经做完作业了，所以现在可以帮你做你的了”，需要表示因果关系的连词“so”。规则要求，用并列连词连接两个独立子句时，连词前通常加逗号，因此 A “, so” 正确。B缺少逗号，C和D的连词与句意不符。"
+        },
+        {
+          "question": "下列哪个句子结构是正确的对等子句？",
+          "options": [
+            "A. Because it was late, we decided to leave.",
+            "B. She opened the door and saw a surprise.",
+            "C. The sun was shining, the birds were singing.",
+            "D. He didn't like the movie, nor did his sister."
+          ],
+          "answer": "D",
+          "explanation": "解析：A是从属复合句（含原因状语从句），不是对等子句。B中“and”连接的是两个动词短语（opened..., saw...），构成简单句，不是连接两个独立子句。C是“逗号粘连”错误，缺少连词。D正确，“nor”作为并列连词连接了两个独立子句“He didn't like the movie”和“did his sister”，且使用了倒装结构。"
+        },
+        {
+          "question": "“我们必须快点，否则会错过火车。”最地道的英文翻译是：",
+          "options": [
+            "A. We must hurry, and we will miss the train.",
+            "B. We must hurry, or we will miss the train.",
+            "C. We must hurry, but we will miss the train.",
+            "D. We must hurry, so we will miss the train."
+          ],
+          "answer": "B",
+          "explanation": "解析：中文“否则”表达一种否定的条件或选择，对应英文的并列连词“or”。B选项用“or”连接两个独立子句，准确表达了“快点”和“错过火车”之间的选择/警告关系。A的“and”表示并列，C的“but”表示转折，D的“so”表示因果，均不符合句意。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：用恰当的连词填空（注意标点）。The project is challenging, ______ it is also very rewarding.",
+          "answer": "but",
+          "explanation": "解析：句意是“这个项目很有挑战性，但也非常有回报。”前后两个独立子句在意义上是转折关系，因此应使用表示转折的并列连词“but”。根据规则，连词前已有逗号，所以直接填“but”。"
+        },
+        {
+          "question": "改写题：将以下两个简单句合并成一个对等子句（使用恰当的连词和标点）。\n句子1: The concert was canceled.\n句子2: We got a full refund.",
+          "answer": "The concert was canceled, but we got a full refund. (或 The concert was canceled; however, we got a full refund.)",
+          "explanation": "解析：两个句子有轻微的转折关系（虽然取消了，但退款了）。最常用的合并方式是使用并列连词“but”，并在其前加逗号。也可以使用更正式的分号加转折副词“however”的结构。"
+        }
+      ]
+    },
+    "summary": "对等子句的核心要义是：用并列连词或分号将两个或多个语法地位平等、意义关联的独立子句连接起来，以表达并列、转折、选择、因果等逻辑关系。",
+    "related_points": [
+      "从属子句",
+      "并列连词",
+      "逗号粘连与连写句错误"
+    ]
+  }
+}

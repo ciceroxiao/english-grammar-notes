@@ -1,0 +1,114 @@
+{
+  "grammar_point": "语气",
+  "category": "简单句的成分",
+  "index": 11,
+  "content": {
+    "overview": {
+      "function": "语气（Mood）是动词的一种形式，用来表明说话者对所述内容的态度或意图，例如陈述事实、发出命令、表达愿望或提出假设。它决定了句子的基本用途和情感色彩。",
+      "usage_scenarios": [
+        "陈述客观事实或描述状态",
+        "向他人发出指令或请求",
+        "表达愿望、建议或与事实相反的假设"
+      ]
+    },
+    "rules": {
+      "description": "英语中主要有三种语气：陈述语气、祈使语气和虚拟语气。每种语气通过动词的不同形式或句子结构来体现。",
+      "key_points": [
+        {
+          "point": "陈述语气 (Indicative Mood)",
+          "explanation": "用于陈述事实、提出问题或表达观点，是英语中最常用的语气。动词形式遵循一般时态变化规则。例如：He works hard.（他努力工作。）"
+        },
+        {
+          "point": "祈使语气 (Imperative Mood)",
+          "explanation": "用于发出命令、请求、建议或邀请。通常省略主语（you），直接以动词原形开头。例如：Close the door.（关上门。）"
+        },
+        {
+          "point": "虚拟语气 (Subjunctive Mood)",
+          "explanation": "用于表达愿望、建议、要求或与事实相反的假设。其动词形式常与陈述语气不同，例如在条件句中用“were”代替“was”，或在that从句中用动词原形。例如：I wish I were there.（我希望我在那里。）"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She is a talented musician.",
+        "translation": "她是一位有才华的音乐家。",
+        "analysis": "语法解析：使用陈述语气（动词is），客观陈述一个事实。"
+      },
+      {
+        "sentence": "Please pass me the salt.",
+        "translation": "请把盐递给我。",
+        "analysis": "语法解析：使用祈使语气（动词原形pass），发出一个礼貌的请求。主语you被省略。"
+      },
+      {
+        "sentence": "If I were you, I would accept the offer.",
+        "translation": "如果我是你，我会接受这个提议。",
+        "analysis": "语法解析：使用虚拟语气（动词were），表达一个与现在事实相反的假设（我并不是你）。"
+      },
+      {
+        "sentence": "The manager insisted that the report be submitted by Friday.",
+        "translation": "经理坚持要求报告必须在周五前提交。",
+        "analysis": "语法解析：在表示“要求、建议、命令”的动词（insisted）后的that从句中，使用虚拟语气（动词用原形be），不受主语单复数影响。"
+      },
+      {
+        "sentence": "If he was here yesterday, he saw the accident. (易错点)",
+        "translation": "如果他昨天在这里，他看到了事故。",
+        "analysis": "语法解析：此句是陈述语气，表示对过去事实的可能性推测，动词用was。常见错误是与虚拟语气混淆。如果是虚拟语气（假设他昨天不在），应说：If he had been here yesterday, he would have seen the accident."
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Which sentence uses the imperative mood?",
+          "options": [
+            "A. She sings beautifully.",
+            "B. Let's go to the park.",
+            "C. He might be late.",
+            "D. If I had time, I would help."
+          ],
+          "answer": "B",
+          "explanation": "解析：B选项“Let's go...”是提出建议的祈使句结构。A是陈述语气，C是情态动词表推测，D是虚拟语气。"
+        },
+        {
+          "question": "Identify the subjunctive mood in the following sentences.",
+          "options": [
+            "A. I suggest that he leave early.",
+            "B. The sun rises in the east.",
+            "C. Don't be late!",
+            "D. They are watching a movie."
+          ],
+          "answer": "A",
+          "explanation": "解析：A选项在suggest后的that从句中使用了动词原形“leave”，这是虚拟语气的典型用法，表示建议。其他选项分别是陈述语气和祈使语气。"
+        },
+        {
+          "question": "Choose the correct form to complete the subjunctive sentence: It is important that she ______ on time.",
+          "options": [
+            "A. arrives",
+            "B. arrive",
+            "C. will arrive",
+            "D. arrived"
+          ],
+          "answer": "B",
+          "explanation": "解析：在“It is important that...”结构中，that从句应使用虚拟语气，动词用原形“arrive”，不受主语“she”影响。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：用动词的正确形式填空（虚拟语气）。\nI wish I (be) ______ taller.",
+          "answer": "were",
+          "explanation": "解析：在“wish”后的宾语从句中，表示对现在情况的愿望（与事实相反），无论主语是第几人称，be动词都用“were”。"
+        },
+        {
+          "question": "改写题：将以下句子改为祈使语气（表示请求）。\nYou should turn off the lights when you leave.",
+          "answer": "Please turn off the lights when you leave.",
+          "explanation": "解析：祈使语气通常省略主语you，以动词原形开头。加上“Please”可以使请求更礼貌。原句是陈述语气的建议。"
+        }
+      ]
+    },
+    "summary": "语气通过动词形式的变化，区分了句子是陈述事实、发出指令还是表达非真实的愿望或假设。",
+    "related_points": [
+      "动词时态",
+      "情态动词",
+      "条件句"
+    ]
+  }
+}

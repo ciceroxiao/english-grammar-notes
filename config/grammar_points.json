@@ -1,0 +1,53 @@
+{
+  "total_count": 24,
+  "categories": [
+    {
+      "id": "simple_sentence",
+      "name": "简单句的成分",
+      "name_en": "Simple Sentence Components",
+      "count": 14,
+      "points": [
+        {"id": "01", "name": "名词片语", "name_en": "Noun Phrases"},
+        {"id": "02", "name": "代名词", "name_en": "Pronouns"},
+        {"id": "03", "name": "形容词", "name_en": "Adjectives"},
+        {"id": "04", "name": "副词", "name_en": "Adverbs"},
+        {"id": "05", "name": "比较句法", "name_en": "Comparative Structures"},
+        {"id": "06", "name": "介系词", "name_en": "Prepositions"},
+        {"id": "07", "name": "分词", "name_en": "Participles"},
+        {"id": "08", "name": "动词时态", "name_en": "Verb Tenses"},
+        {"id": "09", "name": "语态", "name_en": "Voice"},
+        {"id": "10", "name": "语气助动词", "name_en": "Modal Verbs"},
+        {"id": "11", "name": "语气", "name_en": "Moods"},
+        {"id": "12", "name": "动名词", "name_en": "Gerunds"},
+        {"id": "13", "name": "不定词片语", "name_en": "Infinitive Phrases"},
+        {"id": "14", "name": "对等连接词", "name_en": "Coordinating Conjunctions"}
+      ]
+    },
+    {
+      "id": "complex_sentence",
+      "name": "复合句的类型",
+      "name_en": "Complex Sentence Types",
+      "count": 5,
+      "points": [
+        {"id": "15", "name": "对等子句", "name_en": "Coordinate Clauses"},
+        {"id": "16", "name": "名词子句", "name_en": "Noun Clauses"},
+        {"id": "17", "name": "副词子句", "name_en": "Adverbial Clauses"},
+        {"id": "18", "name": "关系子句", "name_en": "Relative Clauses"},
+        {"id": "19", "name": "主词动词一致性", "name_en": "Subject-Verb Agreement"}
+      ]
+    },
+    {
+      "id": "reduced_sentence",
+      "name": "简化句的类型",
+      "name_en": "Reduced Sentence Types",
+      "count": 5,
+      "points": [
+        {"id": "20", "name": "倒装句", "name_en": "Inversion"},
+        {"id": "21", "name": "简化子句", "name_en": "Reduced Clauses"},
+        {"id": "22", "name": "关系子句简化", "name_en": "Reduced Relative Clauses"},
+        {"id": "23", "name": "名词子句简化", "name_en": "Reduced Noun Clauses"},
+        {"id": "24", "name": "副词子句简化", "name_en": "Reduced Adverbial Clauses"}
+      ]
+    }
+  ]
+}

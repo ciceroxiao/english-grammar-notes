@@ -1,0 +1,110 @@
+{
+  "grammar_point": "名词片语",
+  "category": "简单句的成分",
+  "index": 1,
+  "content": {
+    "overview": {
+      "function": "名词片语是句子的核心成分，用于表示人、事物、地点或概念。它可以充当主语、宾语、表语等多种句子成分，是构建英语句子的基础模块。",
+      "usage_scenarios": [
+        "描述具体或抽象的人事物",
+        "作为句子的主语或宾语",
+        "修饰其他名词，提供更详细的信息"
+      ]
+    },
+    "rules": {
+      "description": "名词片语由中心名词及其修饰语组成，掌握其结构有助于准确表达。",
+      "key_points": [
+        {
+          "point": "基本结构：限定词 + 修饰语 + 中心名词",
+          "explanation": "名词片语通常由限定词（如the, a, this）、形容词等修饰语和中心名词组成。例如：the beautiful garden中，the是限定词，beautiful是修饰语，garden是中心名词。"
+        },
+        {
+          "point": "限定词的使用规则",
+          "explanation": "可数名词单数前必须有限定词（a/an/the/this等）；复数名词和不可数名词可以不带限定词表示泛指。"
+        },
+        {
+          "point": "修饰语的顺序",
+          "explanation": "多个形容词修饰名词时，通常遵循：观点-大小-形状-年龄-颜色-来源-材料-用途的顺序。如：a lovely little old Chinese cup。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "The quick brown fox jumps over the lazy dog.",
+        "translation": "那只敏捷的棕色狐狸跳过了那只懒惰的狗。",
+        "analysis": "包含两个名词片语：The quick brown fox（限定词+形容词+形容词+中心名词）作主语；the lazy dog（限定词+形容词+中心名词）作宾语。"
+      },
+      {
+        "sentence": "Knowledge is power.",
+        "translation": "知识就是力量。",
+        "analysis": "两个名词片语都只有中心名词，没有限定词和修饰语。不可数名词knowledge和power表示抽象概念时不需要限定词。"
+      },
+      {
+        "sentence": "She bought a beautiful red silk scarf yesterday.",
+        "translation": "她昨天买了一条漂亮的红色丝巾。",
+        "analysis": "名词片语a beautiful red silk scarf包含：限定词a + 观点形容词beautiful + 颜色形容词red + 材料名词silk（作修饰语）+ 中心名词scarf。"
+      },
+      {
+        "sentence": "The book that I borrowed from the library is fascinating.",
+        "translation": "我从图书馆借的那本书非常引人入胜。",
+        "analysis": "复杂名词片语：The book that I borrowed from the library 中，that I borrowed from the library是关系子句，修饰中心名词book。"
+      },
+      {
+        "sentence": "Students should avoid making careless mistakes.",
+        "translation": "学生们应该避免犯粗心的错误。",
+        "analysis": "易错点：Students前没有限定词，表示泛指'学生们'这一群体；mistakes前有限定词making和形容词careless修饰。注意：careless mistakes不能说成careless mistake（缺少冠词）。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "请选出正确的名词片语：",
+          "options": [
+            "A. big red car",
+            "B. red big car",
+            "C. the car red big",
+            "D. car big red"
+          ],
+          "answer": "A",
+          "explanation": "正确答案是A。形容词顺序应该是：大小(big)在颜色(red)之前。完整名词片语应该是'a/the big red car'。"
+        },
+        {
+          "question": "以下哪个句子的名词片语使用有误？",
+          "options": [
+            "A. I need advice.",
+            "B. She is doctor.",
+            "C. The water is cold.",
+            "D. Books are important."
+          ],
+          "answer": "B",
+          "explanation": "正确答案是B。可数名词单数doctor前必须有限定词，应该是'She is a doctor'。其他选项正确：advice不可数不需要限定词；water不可数前有the；Books复数可以泛指。"
+        },
+        {
+          "question": "在'______ weather we are having today!'中，空格处应填入：",
+          "options": [
+            "A. What a nice",
+            "B. What nice",
+            "C. How nice",
+            "D. How a nice"
+          ],
+          "answer": "B",
+          "explanation": "正确答案是B。weather是不可数名词，不能用a/an。感叹句结构：What + (a/an) + 形容词 + 名词！不可数名词用What nice weather。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "用适当的限定词填空：______ honest man came to see you this morning.",
+          "answer": "An",
+          "explanation": "honest以元音音素开头，所以用An。注意不是根据字母h，而是根据发音/ɒnɪst/。"
+        },
+        {
+          "question": "改写句子，使名词片语更具体：I bought a car. → I bought ______ car.",
+          "answer": "a second-hand Japanese sports",
+          "explanation": "通过添加多个修饰语（用途/新旧+来源+类型）使名词片语更具体。注意修饰顺序：用途形容词sports在来源Japanese之前。"
+        }
+      ]
+    },
+    "summary": "名词片语是英语句子的基本构建单元，掌握'限定词+修饰语+中心名词'的结构和形容词排序规则，能够帮助我们准确、丰富地表达思想。",
+    "related_points": ["代名词", "形容词", "关系子句"]
+  }
+}

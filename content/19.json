@@ -1,0 +1,118 @@
+{
+  "grammar_point": "主词动词一致性",
+  "category": "复合句的类型",
+  "index": 19,
+  "content": {
+    "overview": {
+      "function": "主词动词一致性，又称主谓一致，是英语语法中确保句子主语和谓语动词在“人称”和“数”上保持一致的核心规则。它决定了主语是单数时动词用单数形式，主语是复数时动词用复数形式，是构建正确句子的基础。",
+      "usage_scenarios": [
+        "在陈述句、疑问句和否定句中确定谓语动词的正确形式",
+        "处理带有复杂修饰语或插入语的主语时",
+        "在复合句中，确保主句和从句各自的主谓一致"
+      ]
+    },
+    "rules": {
+      "description": "主谓一致的核心在于准确判断主语的“数”，并遵循语法一致、意义一致和就近一致三大原则。",
+      "key_points": [
+        {
+          "point": "语法一致原则",
+          "explanation": "这是最基本的原则，即主语的形式（单数/复数）决定动词的形式。单数主语用单数动词（如 is, does, has），复数主语用复数动词（如 are, do, have）。例如：The book is interesting. / The books are interesting."
+        },
+        {
+          "point": "意义一致原则",
+          "explanation": "有时主语形式上是单数，但意义上是复数，或反之。此时动词形式需根据主语的实际意义决定。例如：The team are discussing the plan.（强调队员个体，用复数）The team has won the championship.（强调整体，用单数）"
+        },
+        {
+          "point": "就近一致原则",
+          "explanation": "当主语由“or”, “either...or...”, “neither...nor...”, “not only...but also...” 连接时，动词的数通常与最靠近它的那个主语保持一致。例如：Neither the students nor the teacher is in the classroom."
+        },
+        {
+          "point": "特殊主语的处理",
+          "explanation": "一些主语如不定代词（everyone, each）、集合名词（family, audience）、表示数量/距离/金额的短语（ten dollars, five miles）以及“a number of”与“the number of”等，其动词形式有特定规则，需特别注意。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "The manager, along with his assistants, is attending the conference.",
+        "translation": "经理和他的助手们正在参加会议。",
+        "analysis": "语法解析：主语是单数名词“The manager”，短语“along with his assistants”是插入语，不影响主语的数。因此，谓语动词需用单数形式“is”。"
+      },
+      {
+        "sentence": "What they need most are more practical opportunities.",
+        "translation": "他们最需要的是更多实践机会。",
+        "analysis": "语法解析：主语是由“what”引导的名词性从句“What they need most”。从句意看，其表语“more practical opportunities”是复数，暗示主语的实际意义是复数，因此谓语动词用复数“are”。这体现了意义一致原则。"
+      },
+      {
+        "sentence": "Not only the equipment but also the technical manuals were destroyed in the fire.",
+        "translation": "不仅设备，连技术手册也在火灾中被毁了。",
+        "analysis": "语法解析：主语由“not only...but also...”连接。根据就近一致原则，动词“were”与最靠近它的主语“the technical manuals”（复数）保持一致。"
+      },
+      {
+        "sentence": "A series of lectures on artificial intelligence has been scheduled for next month.",
+        "translation": "一系列关于人工智能的讲座已安排在下个月。",
+        "analysis": "语法解析：主语中心词是“A series”，这是一个整体性短语，通常被视为单数，因此谓语动词用单数“has been”。类似的短语还有“a portion of”, “a kind of”等。"
+      },
+      {
+        "sentence": "The number of applicants have increased significantly this year. (错误) / The number of applicants has increased significantly this year. (正确)",
+        "translation": "申请者的数量今年显著增加了。",
+        "analysis": "语法解析，强调常见错误：“The number of + 复数名词”作主语时，中心词是“The number”（数量），是单数概念，谓语动词应用单数“has”。学生常误将动词与“applicants”保持一致而用复数“have”。而“A number of + 复数名词”意为“许多”，作主语时谓语动词用复数。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Neither of the two candidates _____ qualified for the position.",
+          "options": [
+            "A. is",
+            "B. are",
+            "C. be",
+            "D. were"
+          ],
+          "answer": "A",
+          "explanation": "解析：“neither of + 复数名词”作主语时，通常视为单数，谓语动词用单数形式。因此选A。"
+        },
+        {
+          "question": "The committee _____ divided in their opinions on this issue.",
+          "options": [
+            "A. is",
+            "B. are",
+            "C. was",
+            "D. were"
+          ],
+          "answer": "B",
+          "explanation": "解析：集合名词“committee”在此句中强调委员会成员们的个体意见分歧，应用复数概念，且时态为一般现在时，因此选B（are）。若强调整体做决定，则用单数。"
+        },
+        {
+          "question": "Every student and every teacher _____ required to attend the ceremony.",
+          "options": [
+            "A. is",
+            "B. are",
+            "C. have been",
+            "D. were"
+          ],
+          "answer": "A",
+          "explanation": "解析：由“and”连接的两个或多个单数主语，前面如果有“each”, “every”, “no”等修饰时，谓语动词用单数形式。因此选A。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "Ten thousand dollars _____ (be) a large sum of money for him.",
+          "answer": "is",
+          "explanation": "解析：表示金额、时间、距离等的复数名词短语作为一个整体看待时，谓语动词用单数。这里“一万美元”是一个整体金额。"
+        },
+        {
+          "question": "将句子改写，使主语清晰并确保主谓一致：Running in the park every morning (help/helps) to improve my mood.",
+          "answer": "Running in the park every morning helps to improve my mood.",
+          "explanation": "解析：动名词短语“Running in the park every morning”作主语，应视为单数，因此谓语动词用单数第三人称形式“helps”。"
+        }
+      ]
+    },
+    "summary": "主谓一致的核心在于精准判断主语的单复数，并灵活运用语法、意义和就近三大原则来选择正确的动词形式。",
+    "related_points": [
+      "名词的单复数",
+      "代词与先行词的一致性",
+      "定语从句中的主谓一致"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "grammar_point": "比较句法",
+  "category": "简单句的成分",
+  "index": 5,
+  "content": {
+    "overview": {
+      "function": "比较句法用于比较两个或多个人、事物、动作或状态在程度、数量、性质等方面的差异或相似性。它是英语中表达比较关系的基本结构。",
+      "usage_scenarios": [
+        "比较两个事物的优劣或高低",
+        "描述事物随时间的程度变化",
+        "表达最高级概念，即在群体中最为突出"
+      ]
+    },
+    "rules": {
+      "description": "比较句法主要分为原级、比较级和最高级三种形式，通过形容词或副词的词形变化以及特定结构来实现。",
+      "key_points": [
+        {
+          "point": "三种基本形式",
+          "explanation": "原级用于描述单一对象或表示‘和...一样’；比较级用于比较两者，常用‘-er’或‘more’构成；最高级用于三者或以上，常用‘-est’或‘most’构成，并常与定冠词‘the’连用。"
+        },
+        {
+          "point": "比较级结构",
+          "explanation": "比较两者时，常用‘A + be + 形容词比较级 + than + B’结构。例如：She is taller than me. 注意than是连词，后接比较对象。"
+        },
+        {
+          "point": "原级比较结构",
+          "explanation": "表示‘和...一样’用‘as + 形容词/副词原级 + as’；表示‘不如...’用‘not as/so + 形容词/副词原级 + as’。例如：He runs as fast as a deer."
+        },
+        {
+          "point": "最高级结构",
+          "explanation": "表示‘最...’用‘the + 形容词最高级 + 比较范围（常用in或of引导）’。例如：This is the most interesting book in the library."
+        },
+        {
+          "point": "不规则变化",
+          "explanation": "部分常用形容词和副词有不规则比较级和最高级形式，必须牢记。例如：good/well -> better -> best; bad/badly -> worse -> worst; many/much -> more -> most; little -> less -> least。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "My brother is older than I am.",
+        "translation": "我哥哥比我年纪大。",
+        "analysis": "语法解析：这是一个典型的比较级句子。‘older’是形容词‘old’的比较级形式，通过加‘-er’构成。‘than’引导比较对象‘I am’。"
+      },
+      {
+        "sentence": "This movie is not as exciting as the one we saw last week.",
+        "translation": "这部电影不如我们上周看的那部刺激。",
+        "analysis": "语法解析：这是一个原级比较句，表示‘不如’。结构为‘not as + 形容词原级 (exciting) + as + 比较对象’。"
+      },
+      {
+        "sentence": "Mount Everest is the highest mountain in the world.",
+        "translation": "珠穆朗玛峰是世界上最高的山。",
+        "analysis": "语法解析：这是一个最高级句子。‘the highest’是形容词‘high’的最高级形式，通过加‘-est’构成。‘in the world’用介词‘in’指明了比较范围。"
+      },
+      {
+        "sentence": "The more you practice, the more confident you will become.",
+        "translation": "你练习得越多，就会变得越自信。",
+        "analysis": "语法解析：这是一个‘the + 比较级..., the + 比较级...’的固定句型，表示‘越...，就越...’。它用于描述两个变化过程之间的比例关系。"
+      },
+      {
+        "sentence": "She is one of the most talented student in our class.",
+        "translation": "她是我们班最有才华的学生之一。",
+        "analysis": "语法解析：这是一个易错点。句子本意是‘她是最有才华的学生之一’，但‘student’应为复数‘students’。因为‘one of’后面应接复数名词，表示‘众多...中的一个’。正确句子：She is one of the most talented students in our class."
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Of the two shirts, I chose the ______ one because it was cheaper.",
+          "options": [
+            "A. less expensive",
+            "B. least expensive",
+            "C. more expensive",
+            "D. most expensive"
+          ],
+          "answer": "A",
+          "explanation": "解析：句首‘Of the two shirts’明确比较范围是两者之间，因此应用比较级，排除B和D（最高级）。根据后半句‘because it was cheaper’（因为它更便宜），逻辑上应选择‘不那么贵的’，即‘less expensive’。"
+        },
+        {
+          "question": "This computer works ______ than the old one.",
+          "options": [
+            "A. good",
+            "B. well",
+            "C. better",
+            "D. best"
+          ],
+          "answer": "C",
+          "explanation": "解析：句中有‘than’，表明这是一个比较级句子。‘work’是动词，需用副词修饰。‘well’是副词，其比较级是不规则变化‘better’。A是形容词原级，B是副词原级，D是最高级，均不符合。"
+        },
+        {
+          "question": "Which sentence is CORRECT?",
+          "options": [
+            "A. He is more taller than his father.",
+            "B. This is the most beautiful place I have ever seen.",
+            "C. She is as smarter as her sister.",
+            "D. Today is more hot than yesterday."
+          ],
+          "answer": "B",
+          "explanation": "解析：A错误，单音节形容词‘tall’的比较级是‘taller’，不能再用‘more’。C错误，‘as...as’中间应用形容词原级‘smart’。D错误，单音节形容词‘hot’的比较级是‘hotter’。B正确，多音节形容词‘beautiful’的最高级用‘the most’构成。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题1：用所给词的适当形式填空。This problem is ________ (difficult) than I thought.",
+          "answer": "more difficult",
+          "explanation": "解析：形容词‘difficult’（困难的）是多音节词，其比较级应在前加‘more’。句子中有‘than’，提示用比较级。"
+        },
+        {
+          "question": "改写题2：将句子改写为原级比较句（表示‘不如’）。This car is cheaper than that one. -> This car is ______ that one.",
+          "answer": "not as expensive as",
+          "explanation": "解析：原句‘这辆车比那辆便宜’可以改写为‘这辆车不如那辆贵’。需要注意，改写时不能直接用‘not as cheap as’，因为‘not as cheap as’意思是‘不如...便宜’，与原句逻辑相反。正确思路是转换比较的维度，用其反义词‘expensive’进行原级否定比较。"
+        }
+      ]
+    },
+    "summary": "比较句法通过形容词和副词的原级、比较级、最高级变化及特定句型，系统地表达事物之间的程度差异与层级关系。",
+    "related_points": [
+      "形容词和副词",
+      "介词短语",
+      "定语从句（用于限定比较范围）"
+    ]
+  }
+}

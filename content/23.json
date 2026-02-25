@@ -1,0 +1,119 @@
+{
+  "grammar_point": "名词子句简化",
+  "category": "简化句的类型",
+  "index": 23,
+  "content": {
+    "overview": {
+      "function": "名词子句简化是指将包含主语和谓语动词的完整名词子句，通过省略连接词和改变动词形式，转化为更简洁的短语结构（如不定式短语或动名词短语）。其核心功能是使句子表达更精炼、流畅，避免结构臃肿。",
+      "usage_scenarios": [
+        "在正式写作中使语言更简洁有力",
+        "在口语表达中提升流利度",
+        "当主句与子句主语一致或逻辑关系明确时"
+      ]
+    },
+    "rules": {
+      "description": "名词子句简化的核心规则主要涉及连接词的省略和动词形式的转化。",
+      "key_points": [
+        {
+          "point": "连接词省略",
+          "explanation": "当名词子句由 that, whether, if 等引导，且主句与子句主语一致或子句主语为泛指时，可省略连接词，并将子句动词转化为非谓语形式。"
+        },
+        {
+          "point": "转化为不定式短语",
+          "explanation": "当名词子句表示未来的意图、目的、可能性或必要性时，常简化为“疑问词 + 不定式”或直接“to do”结构。例如：I don't know what I should do. -> I don't know what to do."
+        },
+        {
+          "point": "转化为动名词短语",
+          "explanation": "当名词子句表示一个泛指的、已发生或经常性的动作或状态时，常简化为动名词短语。例如：I enjoy that I read books. -> I enjoy reading books."
+        },
+        {
+          "point": "主语一致性是关键",
+          "explanation": "简化通常要求主句的主语和名词子句的（逻辑）主语一致，或者子句主语是泛指的（如 people, one, you）。否则简化可能造成歧义。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She suggested that we should leave early.",
+        "translation": "她建议我们应该早点离开。",
+        "analysis": "语法解析：原句包含 that 引导的名词子句作宾语。由于主句主语“She”和子句主语“we”不一致，通常不能直接简化为“She suggested leaving early.”（那会变成她建议自己离开）。但可以说“She suggested our leaving early.”或保持原句。"
+      },
+      {
+        "sentence": "His goal is that he will become a doctor.",
+        "translation": "他的目标是成为一名医生。",
+        "analysis": "语法解析：名词子句“that he will become a doctor”作表语，表示未来的意图。由于主句主语“His goal”和子句主语“he”指代同一人，可简化为不定式短语：His goal is to become a doctor."
+      },
+      {
+        "sentence": "I don't remember where I put the keys.",
+        "translation": "我不记得我把钥匙放哪儿了。",
+        "analysis": "语法解析：名词子句“where I put the keys”作宾语。由于子句主语“I”与主句主语一致，且动作“放”已经发生，可考虑简化为动名词短语“putting the keys”，但“where”需要保留。更常见的简化是使用“疑问词+动名词”或保持原句。更地道的简化是：I don't remember putting the keys anywhere. (但丢失了地点信息)。本例展示了并非所有名词子句都适合简化。"
+      },
+      {
+        "sentence": "The committee's decision, that the project be terminated, was unexpected.",
+        "translation": "委员会终止该项目的决定出乎意料。",
+        "analysis": "语法解析：这是一个进阶例子，名词子句“that the project be terminated”是同位语，解释“decision”的内容。这种同位语从句可以简化为不定式短语或“of + 动名词”结构，使句子更紧凑：The committee's unexpected decision was to terminate the project. 或 The committee's decision to terminate the project was unexpected."
+      },
+      {
+        "sentence": "I want that you finish the report by Friday. (易错)",
+        "translation": "我希望你在周五前完成报告。（错误表达）",
+        "analysis": "语法解析：这是一个常见错误。动词“want”后面不能直接接“that”引导的名词子句。正确的表达要么使用不定式简化结构（I want you to finish the report by Friday.），要么换用其他动词如“hope”或“request”（I hope that you can finish...）。这说明了简化有时是语法上的强制要求，而不仅仅是风格选择。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "选择最简洁且正确的改写句：\\nOriginal: It is essential that all applications are submitted before the deadline.",
+          "options": [
+            "A. It is essential all applications submitted before the deadline.",
+            "B. It is essential for all applications to be submitted before the deadline.",
+            "C. It is essential submitting all applications before the deadline.",
+            "D. It is essential that to submit all applications before the deadline."
+          ],
+          "answer": "B",
+          "explanation": "解析：原句是“It is + 形容词 + that 子句”结构，表示必要性。简化时，常转化为“It is + 形容词 + for...to do”的不定式复合结构。B选项正确。A缺动词，C的动名词逻辑主语不清，D结构混杂。"
+        },
+        {
+          "question": "以下哪句简化是错误的？",
+          "options": [
+            "A. I know that he is honest. -> I know him to be honest. (正式语境)",
+            "B. We discussed that we would merge the departments. -> We discussed merging the departments.",
+            "C. She promised that she will help. -> She promised helping.",
+            "D. He didn't mention when he would arrive. -> He didn't mention when to arrive."
+          ],
+          "answer": "C",
+          "explanation": "解析：C错误。动词“promise”后接动作时，必须接不定式（to do），不能接动名词。正确简化是：She promised to help. B正确，“discuss”后接动名词。A正确，但属于较正式用法。D正确，但“when to arrive”的逻辑主语需是主句主语“He”，与原句一致。"
+        },
+        {
+          "question": "“The fact that he admitted his mistake surprised everyone.” 的最佳简化是？",
+          "options": [
+            "A. The fact he admitted his mistake surprised everyone.",
+            "B. His admission of the mistake surprised everyone.",
+            "C. That he admitted his mistake surprised everyone.",
+            "D. He admitted his mistake surprised everyone."
+          ],
+          "answer": "B",
+          "explanation": "解析：原句中“The fact that...”是常见的冗长结构。最佳简化是将其核心名词“admitted”转化为名词“admission”，并用“of”短语修饰，形成“His admission of the mistake”，使句子（B）简洁有力。A只是省略了“that”，不够简洁；C用“That”引导主语从句，仍是一个子句；D改变了原意（他承认…这件事让所有人惊讶 vs 他承认“我的错误让所有人惊讶”）。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：请将名词子句简化为适当形式。\\nI haven't decided __________ (whether / I / should / accept / the offer).",
+          "answer": "whether to accept the offer",
+          "explanation": "解析：原句为“I haven't decided whether I should accept the offer.”。主句与子句主语一致（都是I），且表示未来的选择，符合简化为“疑问词(whether) + 不定式(to accept)”的条件。"
+        },
+        {
+          "question": "改写题：将下面句子改写，使其更简洁。保持原意。\\nThe instruction that you should wear a helmet is for your safety.",
+          "answer": "The instruction to wear a helmet is for your safety.",
+          "explanation": "解析：原句中“that you should wear a helmet”是“instruction”的同位语从句，解释指令内容。可以简化为不定式短语“to wear a helmet”作后置定语，修饰“instruction”，意思不变且更简洁。注意“you should”的语义已融入不定式中。"
+        }
+      ]
+    },
+    "summary": "名词子句简化的核心要义是：在主语一致且逻辑清晰的前提下，通过将从句动词转化为非谓语形式（不定式或动名词），来达到语言精炼的目的。",
+    "related_points": [
+      "不定式",
+      "动名词",
+      "名词子句",
+      "简化句的基本原则"
+    ]
+  }
+}

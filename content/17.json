@@ -1,0 +1,118 @@
+{
+  "grammar_point": "副词子句",
+  "category": "复合句的类型",
+  "index": 17,
+  "content": {
+    "overview": {
+      "function": "副词子句（Adverbial Clause）是复合句中充当副词功能的子句，用来修饰主句中的动词、形容词、副词或整个句子，以说明时间、地点、原因、条件、目的、结果、让步、方式、比较等关系。它使句子表达的逻辑关系更清晰、内容更丰富。",
+      "usage_scenarios": [
+        "描述动作发生的时间或条件",
+        "解释事件的原因或目的",
+        "表达对比、让步或结果"
+      ]
+    },
+    "rules": {
+      "description": "副词子句由从属连接词引导，在句中作状语。其核心规则涉及连接词的选择、语序和时态呼应。",
+      "key_points": [
+        {
+          "point": "由从属连接词引导",
+          "explanation": "副词子句必须由特定的从属连接词引导，这些连接词决定了子句与主句的逻辑关系。例如：时间（when, while, before, after, since, until）、原因（because, since, as）、条件（if, unless）、让步（although, though, even though）、目的（so that, in order that）、结果（so...that, such...that）、方式（as, as if）、地点（where, wherever）、比较（than, as...as）。"
+        },
+        {
+          "point": "语序为陈述句语序",
+          "explanation": "副词子句本身是一个完整的句子，使用陈述句的语序（主语+谓语），而不是疑问句语序。例如：I will call you when I arrive.（正确）\\nI will call you when do I arrive.（错误）"
+        },
+        {
+          "point": "时态需与主句呼应",
+          "explanation": "副词子句的时态需要根据其与主句动作的时间关系以及连接词的含义来确定，尤其在条件状语从句和时间状语从句中要特别注意“主将从现”等规则。例如：If it rains tomorrow, we will stay at home.（条件从句用一般现在时表示将来）"
+        },
+        {
+          "point": "位置灵活",
+          "explanation": "副词子句可以放在主句之前、之后，有时也可插入主句中间。当位于句首时，通常用逗号与主句隔开；位于句末时，通常不用逗号。例如：Although he was tired, he finished the work.\\nHe finished the work although he was tired."
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "I always listen to music while I am driving to work.",
+        "translation": "我开车上班时总是听音乐。",
+        "analysis": "语法解析：此句包含一个由“while”引导的时间状语从句（while I am driving to work），修饰主句动词“listen”，说明听音乐发生的时间背景。"
+      },
+      {
+        "sentence": "She didn't go to the party because she had to finish her report.",
+        "translation": "她没有去参加聚会，因为她必须完成报告。",
+        "analysis": "语法解析：此句包含一个由“because”引导的原因状语从句（because she had to finish her report），解释主句动作“didn't go”的原因。"
+      },
+      {
+        "sentence": "If you heat ice, it melts.",
+        "translation": "如果你加热冰，它会融化。",
+        "analysis": "语法解析：此句包含一个由“if”引导的条件状语从句（If you heat ice），说明主句“it melts”发生的条件。这里使用一般现在时表示普遍真理。"
+      },
+      {
+        "sentence": "The project was completed ahead of schedule, although we encountered several unexpected challenges.",
+        "translation": "尽管我们遇到了几个意想不到的挑战，这个项目还是提前完成了。",
+        "analysis": "语法解析：此句包含一个由“although”引导的让步状语从句（although we encountered...），置于主句之后，表示与主句预期相反的情况，使表达更具层次感。"
+      },
+      {
+        "sentence": "He will call you as soon as he will arrive at the airport.",
+        "translation": "他（错误：will arrive）一到机场就会给你打电话。",
+        "analysis": "语法解析：此句为易错点示例。在由“as soon as”引导的时间状语从句中，应用一般现在时（arrives）表示将来，遵循“主将从现”原则。正确句子应为：He will call you as soon as he arrives at the airport."
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "______ it was raining heavily, they decided to go hiking as planned.",
+          "options": [
+            "A. Because",
+            "B. Although",
+            "C. So that",
+            "D. If"
+          ],
+          "answer": "B",
+          "explanation": "解析：主句“they decided to go hiking”与“it was raining heavily”在逻辑上构成转折关系，因此需要表示让步的连接词“Although”（尽管）。"
+        },
+        {
+          "question": "I'll send you the details ______ I get back to the office.",
+          "options": [
+            "A. when",
+            "B. where",
+            "C. because",
+            "D. although"
+          ],
+          "answer": "A",
+          "explanation": "解析：从句“I get back to the office”表示主句动作“send”发生的时间点，因此需要时间连接词“when”。"
+        },
+        {
+          "question": "She spoke slowly ______ everyone could understand her.",
+          "options": [
+            "A. although",
+            "B. because",
+            "C. so that",
+            "D. if"
+          ],
+          "answer": "C",
+          "explanation": "解析：从句“everyone could understand her”表示主句动作“spoke slowly”的目的，因此需要目的连接词“so that”（以便）。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：You won't pass the exam ______ you study harder. (用if或unless填空)",
+          "answer": "unless",
+          "explanation": "解析：句意为“除非你更努力学习，否则你不会通过考试”。“unless”相当于“if...not”，在此引导条件状语从句，表示唯一的条件。"
+        },
+        {
+          "question": "改写题：将简单句合并为含副词子句的复合句：\\nHe finished his homework. Then he went out to play. (用after连接)",
+          "answer": "He went out to play after he finished his homework. 或 After he finished his homework, he went out to play.",
+          "explanation": "解析：使用“after”引导时间状语从句，将两个简单句的时间先后关系清晰地表达出来。注意从句的时态与主句保持一致（均为一般过去时）。"
+        }
+      ]
+    },
+    "summary": "副词子句是通过从属连接词引导、在复合句中充当状语、用以丰富句子逻辑关系的子句。",
+    "related_points": [
+      "名词子句",
+      "形容词子句",
+      "从属连接词"
+    ]
+  }
+}

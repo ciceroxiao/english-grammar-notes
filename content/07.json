@@ -1,0 +1,119 @@
+{
+  "grammar_point": "分词",
+  "category": "简单句的成分",
+  "index": 7,
+  "content": {
+    "overview": {
+      "function": "分词是动词的一种非谓语形式，兼具动词和形容词/副词的特征。它主要用来修饰名词或整个句子，使表达更简洁、生动。",
+      "usage_scenarios": [
+        "作定语修饰名词",
+        "作状语修饰整个句子",
+        "作宾语补足语或表语"
+      ]
+    },
+    "rules": {
+      "description": "分词分为现在分词（-ing形式）和过去分词（-ed形式或特殊形式），其核心规则围绕形式、意义和逻辑主语的判断。",
+      "key_points": [
+        {
+          "point": "形式与基本意义",
+          "explanation": "现在分词（V-ing）通常表示主动或进行；过去分词（V-ed/不规则形式）通常表示被动或完成。例如：a developing country（发展中国家，主动），a developed country（发达国家，被动完成）。"
+        },
+        {
+          "point": "作定语时的位置",
+          "explanation": "单个分词作定语通常前置（如：a sleeping baby），分词短语作定语则必须后置（如：the baby sleeping in the cradle）。过去分词短语作定语也后置（如：a book written by him）。"
+        },
+        {
+          "point": "作状语时的逻辑主语",
+          "explanation": "分词作状语时，其逻辑主语必须与句子的主语保持一致，否则会构成悬垂分词错误。正确：Walking in the park, I saw a bird.（我走，我看见）。错误：Walking in the park, a bird was seen.（鸟在走？）。"
+        },
+        {
+          "point": "独立主格结构",
+          "explanation": "当分词有自己独立的逻辑主语时，构成独立主格结构，常用作状语表示时间、原因、条件、伴随等。结构为：名词/代词 + 分词。例如：Weather permitting, we'll go hiking.（如果天气允许）。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "The girl standing by the window is my sister.",
+        "translation": "站在窗边的那个女孩是我妹妹。",
+        "analysis": "语法解析：现在分词短语“standing by the window”作后置定语，修饰名词“the girl”，表示主动和正在进行的动作。"
+      },
+      {
+        "sentence": "Seen from the hill, the city looks magnificent.",
+        "translation": "从山上看，这座城市显得很壮观。",
+        "analysis": "语法解析：过去分词短语“Seen from the hill”作状语，表示条件或时间。其逻辑主语是句子的主语“the city”，两者是被动关系（城市被看）。"
+      },
+      {
+        "sentence": "He sat at the desk, writing a letter.",
+        "translation": "他坐在书桌旁，写着信。",
+        "analysis": "语法解析：现在分词短语“writing a letter”作伴随状语，描述主语“He”在坐着的同时进行的另一个动作，逻辑主语一致。"
+      },
+      {
+        "sentence": "With all the work finished, we felt relieved.",
+        "translation": "所有工作都完成了，我们感到松了一口气。",
+        "analysis": "语法解析：“With + 宾语（all the work）+ 过去分词（finished）”构成独立主格结构，作原因状语。分词“finished”与其逻辑主语“work”是被动完成关系。"
+      },
+      {
+        "sentence": "Looking out of the window, the garden was beautiful.",
+        "translation": "（从窗户望出去，花园很美。）",
+        "analysis": "语法解析，强调常见错误：这是一个典型的悬垂分词错误。分词短语“Looking out of the window”的逻辑主语应该是人，但句子的主语是“the garden”，导致花园在“看”。应改为：Looking out of the window, I found the garden beautiful."
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "The news was so ______ that we all got ______.",
+          "options": [
+            "A. exciting; exciting",
+            "B. excited; excited",
+            "C. exciting; excited",
+            "D. excited; exciting"
+          ],
+          "answer": "C",
+          "explanation": "解析：现在分词（exciting）修饰物，表示“令人兴奋的”；过去分词（excited）修饰人，表示“感到兴奋的”。所以是“令人兴奋的消息”和“我们感到兴奋”。"
+        },
+        {
+          "question": "______ in a white uniform, he looks more like a cook than a doctor.",
+          "options": [
+            "A. Dressed",
+            "B. To dress",
+            "C. Dressing",
+            "D. Having dressed"
+          ],
+          "answer": "A",
+          "explanation": "解析：分词短语作状语，逻辑主语是“he”。他与“穿”之间是被动关系（被穿上制服），所以用过去分词“Dressed”。"
+        },
+        {
+          "question": "The building ______ last year is our new library.",
+          "options": [
+            "A. completed",
+            "B. completing",
+            "C. being completed",
+            "D. to complete"
+          ],
+          "answer": "A",
+          "explanation": "解析：分词短语作后置定语修饰“The building”。大楼与“完成”之间是被动且已完成的动作，所以用过去分词“completed”。C项表示“正在被完成”，与“last year”时间不符。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题1：用括号内动词的正确分词形式填空。\\nI heard someone ______ (call) my name outside.",
+          "answer": "calling",
+          "explanation": "解析：在感官动词（hear, see等）后，用现在分词作宾语补足语，表示动作正在进行。意思是“我听见有人正在外面叫我的名字。”"
+        },
+        {
+          "question": "改写题2：将两个简单句合并为一句，使用分词短语。\\nShe was tired from the journey. She went to bed early.",
+          "answer": "Tired from the journey, she went to bed early.",
+          "explanation": "解析：将第一句“She was tired”改为过去分词短语“Tired from the journey”作原因状语，逻辑主语与第二句主语“she”一致，表示“因为旅途劳累”。"
+        }
+      ]
+    },
+    "summary": "分词的核心在于通过动词的非谓语形式（-ing表主动/进行，-ed表被动/完成）来充当修饰语，使用时必须注意其与逻辑主语的一致关系。",
+    "related_points": [
+      "不定式",
+      "动名词",
+      "状语从句",
+      "定语从句"
+    ]
+  }
+}

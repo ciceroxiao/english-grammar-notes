@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{GRAMMAR_POINT}} - {{CATEGORY}} | 英语语法精讲</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+    <nav class="breadcrumb">
+        <a href="../index.html">首页</a> &gt;
+        <a href="../{{CATEGORY_ID}}/index.html">{{CATEGORY}}</a> &gt;
+        <span>{{GRAMMAR_POINT}}</span>
+    </nav>
+
+    <main class="grammar-content">
+        <header class="page-header">
+            <span class="index-badge">{{INDEX}}/24</span>
+            <h1>{{GRAMMAR_POINT}}</h1>
+            <p class="subtitle">{{NAME_EN}}</p>
+        </header>
+
+        <section class="overview card">
+            <h2>📌 它能做什么？</h2>
+            <p class="function">{{OVERVIEW_FUNCTION}}</p>
+            <div class="usage-scenarios">
+                <h3>使用场景</h3>
+                <ul>
+                    {{USAGE_SCENARIOS}}
+                </ul>
+            </div>
+        </section>
+
+        <section class="rules card">
+            <h2>📖 核心语法规则</h2>
+            <p class="rules-description">{{RULES_DESCRIPTION}}</p>
+            <div class="key-points">
+                {{KEY_POINTS}}
+            </div>
+        </section>
+
+        <section class="examples card">
+            <h2>💡 典型案例</h2>
+            <div class="examples-list">
+                {{EXAMPLES}}
+            </div>
+        </section>
+
+        <section class="exercises card">
+            <h2>✏️ 练习巩固</h2>
+            
+            <div class="exercise-section">
+                <h3>选择题</h3>
+                <div class="multiple-choice">
+                    {{MULTIPLE_CHOICE}}
+                </div>
+            </div>
+
+            <div class="exercise-section">
+                <h3>填空与改写</h3>
+                <div class="fill-blank">
+                    {{FILL_BLANK}}
+                </div>
+            </div>
+
+            <div class="answers-toggle">
+                <button onclick="toggleAnswers()">显示/隐藏答案</button>
+                <div class="answers" id="answers" style="display:none;">
+                    {{ANSWERS}}
+                </div>
+            </div>
+        </section>
+
+        <section class="summary card">
+            <h2>📝 一句话总结</h2>
+            <blockquote>{{SUMMARY}}</blockquote>
+        </section>
+
+        <section class="related card">
+            <h2>🔗 相关知识点</h2>
+            <div class="related-points">
+                {{RELATED_POINTS}}
+            </div>
+        </section>
+
+        <nav class="page-nav">
+            {{PREV_LINK}}
+            {{NEXT_LINK}}
+        </nav>
+    </main>
+
+    <footer>
+        <p>英语语法精讲 | 系统学习方法</p>
+    </footer>
+
+    <script src="../assets/js/main.js"></script>
+</body>
+</html>

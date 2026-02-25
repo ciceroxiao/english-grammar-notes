@@ -1,0 +1,120 @@
+{
+  "grammar_point": "关系子句简化",
+  "category": "简化句的类型",
+  "index": 22,
+  "content": {
+    "overview": {
+      "function": "关系子句简化是指将完整的关系子句（定语从句）通过省略关系代词和系动词，或改变动词形式，转化为更简洁的短语结构。其核心功能是使句子结构更紧凑、表达更流畅，避免重复和冗余。",
+      "usage_scenarios": [
+        "在正式或非正式的书面语中，使行文更简洁",
+        "在口语表达中，使句子更自然流畅",
+        "在学术写作或报告中，提升语言的精炼度"
+      ]
+    },
+    "rules": {
+      "description": "关系子句简化的核心规则主要取决于关系子句中动词的语态和时态。",
+      "key_points": [
+        {
+          "point": "主动语态简化",
+          "explanation": "当关系子句为主动语态时，通常省略关系代词和be动词，并将主要动词改为现在分词（-ing形式）。例如：The man who is talking to Mary is my teacher. -> The man talking to Mary is my teacher."
+        },
+        {
+          "point": "被动语态简化",
+          "explanation": "当关系子句为被动语态时，通常省略关系代词和be动词，保留过去分词。例如：The book which was written by him is popular. -> The book written by him is popular."
+        },
+        {
+          "point": "表示“将来”或“目的”的简化",
+          "explanation": "当关系子句表示将来动作或目的时，可以省略关系代词，并将动词改为不定式（to do）。例如：I have some homework that I must do. -> I have some homework to do."
+        },
+        {
+          "point": "简化前提条件",
+          "explanation": "简化通常要求关系代词在子句中作主语。如果关系代词作宾语，则通常直接省略，不涉及动词形式变化。例如：The book (that) I bought yesterday is interesting. (that作宾语，直接省略)"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "The girl who is standing over there is my sister.",
+        "translation": "站在那边的女孩是我的妹妹。",
+        "analysis": "语法解析：原句为主动语态的关系子句（who is standing）。简化时，省略关系代词who和系动词is，将standing保留为现在分词短语，作后置定语。"
+      },
+      {
+        "sentence": "Most of the people invited to the party were old friends.",
+        "translation": "被邀请参加派对的人大多是老朋友。",
+        "analysis": "语法解析：这是被动语态关系子句的简化。原句可还原为'Most of the people who were invited to the party...'。简化后，省略who were，保留过去分词invited作定语。"
+      },
+      {
+        "sentence": "He is not a man to bow before difficulties.",
+        "translation": "他不是一个会在困难面前低头的人。",
+        "analysis": "语法解析：这里用不定式to bow简化了关系子句。原意可理解为'He is not a man who will bow before difficulties.'。不定式短语to bow before difficulties表达了'将来'或'倾向性'的定语含义。"
+      },
+      {
+        "sentence": "Anyone following this advice could find themselves in trouble.",
+        "translation": "任何听从这一建议的人都可能会发现自己陷入麻烦。",
+        "analysis": "语法解析：这是一个进阶例子，简化后的现在分词短语'following this advice'逻辑主语是句子的主语'Anyone'，表示主动和进行的含义，使句子非常紧凑。"
+      },
+      {
+        "sentence": "The boy running in the park is happy. (正确) / The boy is running in the park is happy. (错误)",
+        "translation": "在公园里跑步的那个男孩很开心。",
+        "analysis": "语法解析：强调常见错误。简化后，'running in the park'是一个修饰'boy'的短语，而不是句子的谓语。错误的句子中出现了两个谓语动词(is running 和 is)，造成了结构错误。切记简化后，原关系子句的动词不再是谓语动词。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "选择可以正确简化划线部分的最佳选项：\\nThe proposal ___ at the meeting is of great importance.",
+          "options": [
+            "A. discussed",
+            "B. discussing",
+            "C. which discussed",
+            "D. was discussed"
+          ],
+          "answer": "A",
+          "explanation": "解析：原句可还原为'The proposal which was discussed at the meeting...'。这是一个被动语态的关系子句，简化时应使用过去分词discussed。B是现在分词，表示主动，不符合'提案被讨论'的被动含义。C包含了关系代词但动词形式错误。D是谓语动词形式，会造成句子有两个谓语。"
+        },
+        {
+          "question": "下列哪个句子包含了关系子句的简化？",
+          "options": [
+            "A. I know the man who lives next door.",
+            "B. The window broken yesterday has been fixed.",
+            "C. She has a brother who is a doctor.",
+            "D. This is the house where I was born."
+          ],
+          "answer": "B",
+          "explanation": "解析：B句中'broken yesterday'是过去分词短语，简化自关系子句'that was broken yesterday'，在句中作后置定语修饰'The window'。A、C、D句中的关系子句都是完整形式，未进行简化。"
+        },
+        {
+          "question": "请选择正确的简化形式完成句子：\\nWe need a place ___.",
+          "options": [
+            "A. to stay in",
+            "B. staying in",
+            "C. which to stay",
+            "D. for staying"
+          ],
+          "answer": "A",
+          "explanation": "解析：句意是'我们需要一个可以住的地方'。这表示'目的'或'将来'的动作，适合用不定式来简化关系子句（a place where we can stay / in which we can stay）。A 'to stay in'是正确的简化不定式短语，介词in不能省略。B是现在分词，常表示主动或进行，不适合表示目的。C结构错误。D的'for staying'虽然可以表目的，但不如不定式常用和自然。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：用所给动词的适当形式填空，简化关系子句。\\nThe students _____ (ask) questions were very active. (原句：The students who were asking questions...)",
+          "answer": "asking",
+          "explanation": "解析：原关系子句'who were asking'是主动语态的过去进行时。简化时，省略关系代词和be动词，将主动词ask改为现在分词asking，表示主动和进行的动作。"
+        },
+        {
+          "question": "改写题：将下列句子中的关系子句进行简化。\\nThe machine that was invented by the young engineer has greatly improved our productivity.",
+          "answer": "The machine invented by the young engineer has greatly improved our productivity.",
+          "explanation": "解析：原关系子句'that was invented'是被动语态。简化规则是：省略关系代词(that)和be动词(was)，保留过去分词(invented)。简化后的过去分词短语'invented by...'作后置定语修饰'The machine'。"
+        }
+      ]
+    },
+    "summary": "关系子句简化的核心要义是通过省略与变形，将完整的定语从句转化为分词短语或不定式短语，从而实现语言的精简与高效。",
+    "related_points": [
+      "现在分词",
+      "过去分词",
+      "不定式",
+      "定语从句",
+      "分词短语作定语"
+    ]
+  }
+}

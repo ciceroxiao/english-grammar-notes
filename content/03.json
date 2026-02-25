@@ -1,0 +1,119 @@
+{
+  "grammar_point": "形容词",
+  "category": "简单句的成分",
+  "index": 3,
+  "content": {
+    "overview": {
+      "function": "形容词是用于修饰名词或代词，描述其性质、状态、特征或数量的词类。其核心功能是使语言表达更具体、生动和精确，帮助我们区分和识别事物。",
+      "usage_scenarios": [
+        "描述人或事物的外观特征（如大小、颜色、形状）",
+        "描述人或事物的性质与状态（如情绪、品质、新旧）",
+        "在句子中作定语、表语或补足语"
+      ]
+    },
+    "rules": {
+      "description": "形容词在句子中的位置、形式变化及使用限制",
+      "key_points": [
+        {
+          "point": "位置规则",
+          "explanation": "形容词通常置于被修饰的名词之前作定语（如：a beautiful flower），或置于系动词（如be, seem, become）之后作表语（如：The flower is beautiful）。多个形容词修饰同一名词时，顺序通常遵循：观点/评价 -> 尺寸 -> 形状 -> 年龄 -> 颜色 -> 国籍/来源 -> 材料 -> 用途/类别。"
+        },
+        {
+          "point": "比较级与最高级",
+          "explanation": "大多数形容词有原级、比较级和最高级三种形式，用于比较。单音节和部分双音节形容词通过加 -er, -est 构成（如：tall -> taller -> tallest）。多音节和多数双音节形容词通过加 more, most 构成（如：beautiful -> more beautiful -> most beautiful）。少数形容词有不规则变化（如：good -> better -> best）。"
+        },
+        {
+          "point": "-ed 与 -ing 形容词的区别",
+          "explanation": "以 -ed 结尾的形容词（如 interested, bored）通常描述人的感受或状态，主语常是人。以 -ing 结尾的形容词（如 interesting, boring）通常描述事物具有的使人产生某种感受的特性，主语常是物。例如：I am interested in this interesting book."
+        },
+        {
+          "point": "形容词与副词的区分",
+          "explanation": "形容词修饰名词或代词，描述“什么样”；副词修饰动词、形容词或其他副词，描述“怎样地”。常见错误是将形容词误用作副词修饰动词（如：He runs quick. ❌ -> He runs quickly. ✅）。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She bought a red leather handbag.",
+        "translation": "她买了一个红色的皮手袋。",
+        "analysis": "语法解析：形容词“red”和“leather”都修饰名词“handbag”，作前置定语，描述了手袋的颜色和材料。"
+      },
+      {
+        "sentence": "The weather today is perfect for a picnic.",
+        "translation": "今天的天气非常适合野餐。",
+        "analysis": "语法解析：形容词“perfect”位于系动词“is”之后，作表语，描述主语“The weather”的状态。"
+      },
+      {
+        "sentence": "This is the most challenging project I have ever worked on.",
+        "translation": "这是我参与过的最具挑战性的项目。",
+        "analysis": "语法解析：形容词“challenging”使用了最高级形式“the most challenging”，修饰名词“project”，表示在比较范围内达到最高程度。"
+      },
+      {
+        "sentence": "Feeling exhausted but satisfied, he finally finished the marathon.",
+        "translation": "感到精疲力尽但心满意足，他终于跑完了马拉松。",
+        "analysis": "语法解析：形容词“exhausted”和“satisfied”在这里作主语补足语，描述主语“he”在完成动作后的状态，体现了形容词的非谓语用法。"
+      },
+      {
+        "sentence": "He felt badly about the mistake. (常见错误)",
+        "translation": "他对这个错误感到很难过。",
+        "analysis": "语法解析：强调常见错误。在系动词（如feel, look, sound）后，应使用形容词作表语描述主语状态。此处应使用形容词“bad”（He felt bad...），而“badly”是副词，意为“糟糕地”，通常修饰动作。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Which sentence uses the adjective correctly?",
+          "options": [
+            "A. She sings beautiful.",
+            "B. She has a beautifully voice.",
+            "C. She is a beautiful singer.",
+            "D. She performed beautiful last night."
+          ],
+          "answer": "C",
+          "explanation": "解析：A和D错误，应用副词“beautifully”修饰动词“sings/performed”。B错误，“voice”是名词，应用形容词“beautiful”修饰。C正确，“beautiful”作定语修饰名词“singer”。"
+        },
+        {
+          "question": "Choose the correct order of adjectives: \"She lives in a(n) ______ house.\"",
+          "options": [
+            "A. old small wooden",
+            "B. small old wooden",
+            "C. wooden small old",
+            "D. small wooden old"
+          ],
+          "answer": "B",
+          "explanation": "解析：根据形容词排序规则：尺寸（small）-> 年龄（old）-> 材料（wooden）。因此B（small old wooden）是正确顺序。"
+        },
+        {
+          "question": "The movie was so ______ that everyone felt ______.",
+          "options": [
+            "A. bored; boring",
+            "B. boring; bored",
+            "C. bored; bored",
+            "D. boring; boring"
+          ],
+          "answer": "B",
+          "explanation": "解析：第一空描述电影的特性，用 -ing 形容词“boring”（令人无聊的）。第二空描述人的感受，用 -ed 形容词“bored”（感到无聊的）。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "用形容词的正确形式填空：Mount Everest is ______ (high) mountain in the world.",
+          "answer": "the highest",
+          "explanation": "解析：此处表示“在世界上最高”，是最高级比较，且“high”是单音节形容词，最高级为“the highest”。"
+        },
+        {
+          "question": "改写句子，将括号中的词以正确形式放入句中：The news made him (happy). -> The news made him ______.",
+          "answer": "happy",
+          "explanation": "解析：动词“make”后可接“宾语+宾语补足语”，此处用形容词“happy”作宾语“him”的补足语，描述其状态，意为“这消息使他高兴”。"
+        }
+      ]
+    },
+    "summary": "形容词是修饰名词或代词，描述其特征、状态或程度的词，在句中主要作定语或表语，并有比较等级的变化。",
+    "related_points": [
+      "副词",
+      "名词",
+      "比较级与最高级",
+      "系动词"
+    ]
+  }
+}

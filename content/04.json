@@ -1,0 +1,114 @@
+{
+  "grammar_point": "副词",
+  "category": "简单句的成分",
+  "index": 4,
+  "content": {
+    "overview": {
+      "function": "副词主要用来修饰动词、形容词、其他副词或整个句子，以提供关于动作的方式、程度、时间、地点、频率或说话者态度等信息。它使语言表达更精确、生动。",
+      "usage_scenarios": [
+        "描述动作发生的方式（如：quickly, carefully）",
+        "表示程度（如：very, extremely）",
+        "说明时间、地点或频率（如：yesterday, here, often）"
+      ]
+    },
+    "rules": {
+      "description": "副词的核心语法规则主要涉及其构成、位置及比较等级。",
+      "key_points": [
+        {
+          "point": "构成方式",
+          "explanation": "许多副词由形容词加后缀 -ly 构成（如：quick -> quickly）。但需注意不规则变化（如：good -> well）及本身即以 -ly 结尾的形容词（如：friendly）通常不作副词。"
+        },
+        {
+          "point": "句中位置",
+          "explanation": "1. 修饰动词时，常位于动词之后（若动词有宾语，则在宾语之后）。\\n2. 修饰形容词或副词时，通常直接位于被修饰词之前。\\n3. 频率副词（如：always, often）常位于实义动词之前，be动词、助动词之后。\\n4. 评注性副词（如：fortunately）常位于句首，用逗号隔开。"
+        },
+        {
+          "point": "比较等级",
+          "explanation": "部分副词（多为方式副词）有比较级和最高级形式。规则变化：单音节及 early 加 -er/-est（如：fast -> faster -> fastest）；以 -ly 结尾的多音节副词用 more/most（如：carefully -> more carefully）。不规则变化需单独记忆（如：well -> better -> best）。"
+        }
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "She sings beautifully.",
+        "translation": "她唱歌很动听。",
+        "analysis": "语法解析：副词 'beautifully' 修饰动词 'sings'，说明唱歌的方式，位于动词之后。"
+      },
+      {
+        "sentence": "This is an extremely difficult problem.",
+        "translation": "这是一个极其困难的问题。",
+        "analysis": "语法解析：副词 'extremely' 修饰形容词 'difficult'，表示程度，位于形容词之前。"
+      },
+      {
+        "sentence": "He runs much faster than I do.",
+        "translation": "他跑得比我快得多。",
+        "analysis": "语法解析：'faster' 是副词 'fast' 的比较级，修饰动词 'runs'。'much' 是程度副词，修饰比较级 'faster'，加强语气。"
+      },
+      {
+        "sentence": "Frankly, I don't think it's a good idea.",
+        "translation": "坦白说，我认为这不是个好主意。",
+        "analysis": "语法解析：'Frankly' 是评注性副词，修饰整个句子，表达说话者的态度，通常置于句首并用逗号隔开。"
+      },
+      {
+        "sentence": "He works very hard. (正确) / He works very hardly. (错误)",
+        "translation": "他工作非常努力。",
+        "analysis": "语法解析：'hard' 本身既可作形容词（硬的），也可作副词（努力地）。'hardly' 是另一个副词，意为“几乎不”，与“努力”无关。此处强调常见错误：混淆 'hard' 和 'hardly' 的副词用法。"
+      }
+    ],
+    "exercises": {
+      "multiple_choice": [
+        {
+          "question": "Please speak ______. I can't hear you clearly.",
+          "options": [
+            "A. loud",
+            "B. loudly",
+            "C. louder",
+            "D. loudest"
+          ],
+          "answer": "B",
+          "explanation": "解析：此处需要副词修饰动词 'speak'。'loud' 是形容词，'loudly' 是副词。'louder' 和 'loudest' 是比较级和最高级形式，但原句没有比较语境，故 B 正确。"
+        },
+        {
+          "question": "She ______ goes to the gym on weekends.",
+          "options": [
+            "A. usual",
+            "B. usually",
+            "C. more usual",
+            "D. the most usual"
+          ],
+          "answer": "B",
+          "explanation": "解析：此处需要频率副词修饰动词 'goes'。'usually'（通常）是频率副词，且常位于实义动词之前。A是形容词，C和D是比较形式，不符合语法。"
+        },
+        {
+          "question": "Of all the students, Tom finished his homework ______.",
+          "options": [
+            "A. quick",
+            "B. more quickly",
+            "C. the most quickly",
+            "D. quickest"
+          ],
+          "answer": "C",
+          "explanation": "解析：句首 'Of all the students' 提示了最高级语境。'quickly' 是多音节副词，其最高级应为 'the most quickly'。D 'quickest' 通常用于形容词或单音节副词。"
+        }
+      ],
+      "fill_blank": [
+        {
+          "question": "填空题：It's raining ______ (heavy). You'd better stay at home.",
+          "answer": "heavily",
+          "explanation": "解析：此处需要副词修饰动词 'is raining'，表示下雨的方式。形容词 'heavy' 的副词形式是 'heavily'。"
+        },
+        {
+          "question": "改写题：将句子 \"She is a careful driver.\" 改为用副词强调其驾驶方式。",
+          "answer": "She drives carefully.",
+          "explanation": "解析：原句用形容词 'careful' 描述司机。改写后，用副词 'carefully' 修饰动词 'drives'，直接描述驾驶动作的方式。"
+        }
+      ]
+    },
+    "summary": "副词是句子的重要修饰成分，通过提供方式、程度、时间等信息，使动作或状态的描述更加精准和丰富。",
+    "related_points": [
+      "形容词",
+      "动词",
+      "比较等级"
+    ]
+  }
+}
